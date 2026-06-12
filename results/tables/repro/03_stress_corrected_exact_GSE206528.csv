@@ -1,0 +1,5 @@
+score,p_uncorrected,rank_unc,p_stress_corrected,rank_corr
+SH3BP5,0.1,1/10,0.1,1/10
+ERAP2(down),0.1,1/10,0.1,1/10
+NR4A3(stress),0.1,1/10,0.1,1/10
+diab-specific SH3BP5-ERAP2,0.1,1/10,0.1,1/10

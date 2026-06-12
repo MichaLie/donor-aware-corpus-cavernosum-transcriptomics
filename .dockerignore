@@ -1,0 +1,9 @@
+.venv
+.git
+data
+results
+__pycache__
+*.pyc
+*.h5ad
+*.tar
+*.gz

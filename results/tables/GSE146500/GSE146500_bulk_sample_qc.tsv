@@ -1,0 +1,13 @@
+sample_id	library_size	detected_genes	sample_title	file_label	group	group_label	dataset	tissue	modality	agent	n_features_total
+GSM4387232	26985584	19582	NF1	Con-1	normal_fibroblast	Normal TA fibroblast	GSE146500	tunica_albuginea_fibroblast	bulk_RNA_seq	none	24462
+GSM4387233	23369552	19801	NF2	Con-2	normal_fibroblast	Normal TA fibroblast	GSE146500	tunica_albuginea_fibroblast	bulk_RNA_seq	none	24462
+GSM4387234	30340878	19558	NF3	Con-3	normal_fibroblast	Normal TA fibroblast	GSE146500	tunica_albuginea_fibroblast	bulk_RNA_seq	none	24462
+GSM4387235	35787749	19930	NF4	Con-4	normal_fibroblast	Normal TA fibroblast	GSE146500	tunica_albuginea_fibroblast	bulk_RNA_seq	none	24462
+GSM4387236	23687148	19262	PF1	PT-1	peyronies_fibroblast	Peyronie's TA fibroblast	GSE146500	tunica_albuginea_fibroblast	bulk_RNA_seq	none	24462
+GSM4387237	19816967	18706	PF2	PT-2	peyronies_fibroblast	Peyronie's TA fibroblast	GSE146500	tunica_albuginea_fibroblast	bulk_RNA_seq	none	24462
+GSM4387238	24118910	19148	PF3	PT-3	peyronies_fibroblast	Peyronie's TA fibroblast	GSE146500	tunica_albuginea_fibroblast	bulk_RNA_seq	none	24462
+GSM4387239	24753202	18920	PF4	PT-4	peyronies_fibroblast	Peyronie's TA fibroblast	GSE146500	tunica_albuginea_fibroblast	bulk_RNA_seq	none	24462
+GSM4387240	22453247	18864	PFPC1	PTPC-1	peyronies_fibroblast_PC_NV	Peyronie's TA fibroblast treated with PC-NVs	GSE146500	tunica_albuginea_fibroblast	bulk_RNA_seq	PC-NV	24462
+GSM4387241	21652959	18825	PFPC2	PTPC-2	peyronies_fibroblast_PC_NV	Peyronie's TA fibroblast treated with PC-NVs	GSE146500	tunica_albuginea_fibroblast	bulk_RNA_seq	PC-NV	24462
+GSM4387242	19227364	18596	PFPC3	PTPC-3	peyronies_fibroblast_PC_NV	Peyronie's TA fibroblast treated with PC-NVs	GSE146500	tunica_albuginea_fibroblast	bulk_RNA_seq	PC-NV	24462
+GSM4387243	25213392	18852	PFPC4	PTPC-4	peyronies_fibroblast_PC_NV	Peyronie's TA fibroblast treated with PC-NVs	GSE146500	tunica_albuginea_fibroblast	bulk_RNA_seq	PC-NV	24462

@@ -1,0 +1,13 @@
+mural_subtype	ed_comparison	dataset	peyronie_comparison	n_ed_FDR_0_05_genes	n_ed_genes_in_peyronie_universe	n_peyronie_FDR_0_05	n_overlap_peyronie_FDR_0_05	n_same_direction	n_opposite_direction	fisher_odds_ratio	fisher_p_value	fisher_FDR
+Pericyte_like	diabetic_ED_vs_normal	GSE146500	PF_vs_NF	12	10	11454	9	6	3	3.5575360419397115	0.17722352634370164	0.3544470526874033
+Pericyte_like	diabetic_ED_vs_normal	GSE146500	PFPC_vs_NF	12	10	11040	9	5	4	4.028827848789774	0.13558772115423834	0.3544470526874033
+Pericyte_like	diabetic_ED_vs_normal	GSE126005	PD_plaque_vs_control	12	11	1771	4	4	0	5.9115530762389845	0.012047295418866531	0.10191303704501893
+Pericyte_like	diabetic_ED_vs_normal	GSE146500	PFPC_vs_PF	12	10	1735	4	1	3	5.483535528596187	0.016985506174169822	0.10191303704501893
+Pericyte_like	organic_ED_vs_normal	GSE126005	PD_plaque_vs_control	2	2	1771	1	1	0	10.331073446327684	0.16879608739780028	0.3544470526874033
+Vessel_SMC_like	diabetic_ED_vs_normal	GSE126005	PD_plaque_vs_control	1	1	1771	1	1	0	inf	0.0882939475520989	0.3531757902083956
+Vessel_SMC_like	diabetic_ED_vs_normal	GSE146500	PFPC_vs_NF	1	1	11040	1	1	0	inf	0.6909068151949433	1.0
+Pericyte_like	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	2	0	11040	0	0	0		1.0	1.0
+Pericyte_like	organic_ED_vs_normal	GSE146500	PFPC_vs_PF	2	0	1735	0	0	0		1.0	1.0
+Pericyte_like	organic_ED_vs_normal	GSE146500	PF_vs_NF	2	0	11454	0	0	0		1.0	1.0
+Vessel_SMC_like	diabetic_ED_vs_normal	GSE146500	PFPC_vs_PF	1	1	1735	0	0	0	0.0	1.0	1.0
+Vessel_SMC_like	diabetic_ED_vs_normal	GSE146500	PF_vs_NF	1	1	11454	0	0	0	0.0	1.0	1.0

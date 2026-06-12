@@ -1,0 +1,2 @@
+observed_diabetic_pair,n_total_2_vs_3_assignments,observed_score_difference,observed_rank_descending,exact_one_sided_p_ge_observed,exact_two_sided_p_abs_ge_observed,interpretation
+"DMED1,DMED2",10,1.9062669592217731,1,0.1,0.1,Sanity check only: observed diabetic labels have the largest 12-gene directional-score separation among the ten possible 2-vs-3 assignments.

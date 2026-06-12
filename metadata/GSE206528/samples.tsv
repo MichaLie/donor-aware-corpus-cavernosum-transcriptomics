@@ -1,0 +1,9 @@
+geo_accession	sample_title	donor_id	primary_group	ed_subgroup	diabetes_status	tissue	organism	matrix_file	genes_reported	cells_reported	clinical_source_note
+GSM6255907	Normal_1	N1	normal	normal	no	corpus cavernosum	Homo sapiens	GSM6255907_Normal_1_gene_martix.csv.gz	33694	8357	Normal erectile function tissue from tumor margin of penile carcinoma resection.
+GSM6255908	Normal_2	N2	normal	normal	no	corpus cavernosum	Homo sapiens	GSM6255908_Normal_2_gene_matrix.csv.gz	33694	5571	Normal erectile function tissue from tumor margin of penile carcinoma resection.
+GSM6255909	Normal_3	N3	normal	normal	no	corpus cavernosum	Homo sapiens	GSM6255909_Normal_3_gene_matrix.csv.gz	33694	11644	Normal erectile function tissue from tumor margin of penile carcinoma resection.
+GSM6255910	non-DM_1	ED1	organic_ED	non_diabetic_ED	no	corpus cavernosum	Homo sapiens	GSM6255910_non-DM1_gene_matrix.csv.gz	33694	5906	Organic ED tissue from artificial cavernous body implantation biopsy.
+GSM6255911	non-DM_2	ED2	organic_ED	non_diabetic_ED	no	corpus cavernosum	Homo sapiens	GSM6255911_non-DM2_gene_matrix.csv.gz	33694	2853	Organic ED tissue from artificial cavernous body implantation biopsy.
+GSM6255912	non-DM_3	ED3	organic_ED	non_diabetic_ED	no	corpus cavernosum	Homo sapiens	GSM6255912_non-DM3_gene_matrix.csv.gz	33694	11179	Organic ED tissue from artificial cavernous body implantation biopsy.
+GSM6255913	Diabetes_1	DMED1	organic_ED	diabetic_ED	yes	corpus cavernosum	Homo sapiens	GSM6255913_Diabetes_1_gene_matrix.csv.gz	33694	9058	Organic ED tissue from artificial cavernous body implantation biopsy; type 1 diabetes history at least 10 years.
+GSM6255914	Diabetes_2	DMED2	organic_ED	diabetic_ED	yes	corpus cavernosum	Homo sapiens	GSM6255914_Diabetes_2_gene_martix.csv.gz	33694	10425	Organic ED tissue from artificial cavernous body implantation biopsy; type 1 diabetes history at least 10 years.

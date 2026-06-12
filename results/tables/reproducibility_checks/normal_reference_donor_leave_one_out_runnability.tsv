@@ -1,0 +1,23 @@
+mural_subtype	comparison	leave_out_donor	runnable	group_summary	n_genes_tested	n_samples	omitted_donor_group	recommended_wording
+Pericyte_like	organic_ED_vs_normal	DMED1	True	normal=3;organic_ED=3	8152.0	6.0	diabetic_ED	leave-one-donor sensitivity/context row
+Pericyte_like	organic_ED_vs_normal	DMED2	True	normal=3;organic_ED=3	7820.0	6.0	diabetic_ED	leave-one-donor sensitivity/context row
+Pericyte_like	organic_ED_vs_normal	ED1	True	normal=3;organic_ED=3	8149.0	6.0	non_diabetic_ED	leave-one-donor sensitivity/context row
+Pericyte_like	organic_ED_vs_normal	ED3	True	normal=3;organic_ED=3	7798.0	6.0	non_diabetic_ED	leave-one-donor sensitivity/context row
+Pericyte_like	organic_ED_vs_normal	N1	True	normal=2;organic_ED=4	8673.0	6.0	normal	leave-one-donor sensitivity/context row
+Pericyte_like	organic_ED_vs_normal	N2	True	normal=2;organic_ED=4	8728.0	6.0	normal	leave-one-donor sensitivity/context row
+Pericyte_like	organic_ED_vs_normal	N3	True	normal=2;organic_ED=4	8796.0	6.0	normal	leave-one-donor sensitivity/context row
+Pericyte_like	non_diabetic_ED_vs_normal	ED1	False	normal=3;non_diabetic_ED=1			non_diabetic_ED	leave-one-donor sensitivity/context row
+Pericyte_like	non_diabetic_ED_vs_normal	ED3	False	normal=3;non_diabetic_ED=1			non_diabetic_ED	leave-one-donor sensitivity/context row
+Pericyte_like	non_diabetic_ED_vs_normal	N1	True	normal=2;non_diabetic_ED=2	7406.0	4.0	normal	leave-one-donor sensitivity/context row
+Pericyte_like	non_diabetic_ED_vs_normal	N2	True	normal=2;non_diabetic_ED=2	8209.0	4.0	normal	leave-one-donor sensitivity/context row
+Pericyte_like	non_diabetic_ED_vs_normal	N3	True	normal=2;non_diabetic_ED=2	7609.0	4.0	normal	leave-one-donor sensitivity/context row
+Pericyte_like	diabetic_ED_vs_normal	DMED1	False	normal=3;diabetic_ED=1			diabetic_ED	not runnable: omitting a diabetic ED donor leaves one diabetic ED donor
+Pericyte_like	diabetic_ED_vs_normal	DMED2	False	normal=3;diabetic_ED=1			diabetic_ED	not runnable: omitting a diabetic ED donor leaves one diabetic ED donor
+Pericyte_like	diabetic_ED_vs_normal	N1	True	normal=2;diabetic_ED=2	8132.0	4.0	normal	normal-reference-donor leave-one-out sensitivity
+Pericyte_like	diabetic_ED_vs_normal	N2	True	normal=2;diabetic_ED=2	8118.0	4.0	normal	normal-reference-donor leave-one-out sensitivity
+Pericyte_like	diabetic_ED_vs_normal	N3	True	normal=2;diabetic_ED=2	8181.0	4.0	normal	normal-reference-donor leave-one-out sensitivity
+Vessel_SMC_like	diabetic_ED_vs_normal	DMED1	False	normal=3;diabetic_ED=1			diabetic_ED	not runnable: omitting a diabetic ED donor leaves one diabetic ED donor
+Vessel_SMC_like	diabetic_ED_vs_normal	DMED2	False	normal=3;diabetic_ED=1			diabetic_ED	not runnable: omitting a diabetic ED donor leaves one diabetic ED donor
+Vessel_SMC_like	diabetic_ED_vs_normal	N1	True	normal=2;diabetic_ED=2	11743.0	4.0	normal	normal-reference-donor leave-one-out sensitivity
+Vessel_SMC_like	diabetic_ED_vs_normal	N2	True	normal=2;diabetic_ED=2	11558.0	4.0	normal	normal-reference-donor leave-one-out sensitivity
+Vessel_SMC_like	diabetic_ED_vs_normal	N3	True	normal=2;diabetic_ED=2	11494.0	4.0	normal	normal-reference-donor leave-one-out sensitivity

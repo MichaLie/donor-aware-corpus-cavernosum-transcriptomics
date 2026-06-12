@@ -1,0 +1,5 @@
+mural_subtype	comparison	n_candidates	n_gene_tested_all_lodo	n_stable_tested_direction_all_lodo	n_stable_direction_all_lodo	n_stable_direction_min_80pct	n_retained_nominal_signal_any_lodo	median_fraction_same_direction
+Pericyte_like	diabetic_ED_vs_normal	21	21	21	21	21	21	1
+Pericyte_like	non_diabetic_ED_vs_normal	3	3	3	3	3	3	1
+Pericyte_like	organic_ED_vs_normal	2	2	2	2	2	2	1
+Vessel_SMC_like	diabetic_ED_vs_normal	2	2	2	2	2	2	1

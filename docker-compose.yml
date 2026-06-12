@@ -1,0 +1,13 @@
+services:
+  analysis:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile
+    image: donor-aware-corpus-cavernosum-transcriptomics:latest
+    working_dir: /work
+    volumes:
+      - .:/work
+    environment:
+      - PYTHONUNBUFFERED=1
+      - RETICULATE_PYTHON=/opt/venv/bin/python
+    command: /bin/bash

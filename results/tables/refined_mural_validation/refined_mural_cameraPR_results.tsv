@@ -1,0 +1,5 @@
+dataset	peyronie_comparison	mural_subtype	ed_comparison	ed_direction	n_signature_genes_in_universe	camera_direction	camera_p_value	validation_mode	genes	camera_FDR
+GSE146500	PFPC_vs_PF	Pericyte_like	diabetic_ED_vs_normal	up_in_ED	9	Down	9.31517060735208e-06	treatment_opposes_ED_direction	ADAMTS4,CYR61,IL6,MT1A,NR4A1,NR4A2,NR4A3,RGS16,SH3BP5	3.72606824294083e-05
+GSE126005	PD_plaque_vs_control	Pericyte_like	diabetic_ED_vs_normal	up_in_ED	10	Up	2.0256518876918e-05	disease_same_direction	ADAMTS4,CYR61,IL6,NR4A1,NR4A2,NR4A3,PI15,PLA2G2A,RGS16,SH3BP5	4.0513037753836e-05
+GSE146500	PF_vs_NF	Pericyte_like	diabetic_ED_vs_normal	up_in_ED	9	Up	0.000261057668069912	disease_same_direction	ADAMTS4,CYR61,IL6,MT1A,NR4A1,NR4A2,NR4A3,RGS16,SH3BP5	0.000348076890759883
+GSE146500	PFPC_vs_NF	Pericyte_like	diabetic_ED_vs_normal	up_in_ED	9	Up	0.00444001987692237	disease_same_direction	ADAMTS4,CYR61,IL6,MT1A,NR4A1,NR4A2,NR4A3,RGS16,SH3BP5	0.00444001987692237

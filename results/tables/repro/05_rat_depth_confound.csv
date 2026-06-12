@@ -1,0 +1,7 @@
+sample,condition,n_cells_raw,median_umi,median_genes,n_cells_qc,n_pericyte,peri_clusters,block
+GSM8113509_N1,control,29759,3250.0,1298.0,29751,3133,0;6,depth_confound
+GSM8113510_N2,control,21199,3466.0,1328.0,21164,1101,11,depth_confound
+GSM8113511_H1,DMED,5481,4695.0,1570.0,5481,102,12,depth_confound
+GSM8113512_H2,DMED,5649,3421.0,1222.0,5454,325,1,depth_confound
+GSM8113513_H3,DMED,12870,4414.0,1619.0,12863,356,12,depth_confound
+GSM8113514_H4,DMED,4107,5161.0,1737.0,4106,266,1,depth_confound

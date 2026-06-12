@@ -1,0 +1,5 @@
+gene,d_raw,d_stress_corrected,pct_retained
+SH3BP5,0.613,0.5,81.0
+ERAP2,-0.395,-0.281,71.0
+NR4A3,0.51,0.203,40.0
+diab_specific,0.723,0.57,79.0

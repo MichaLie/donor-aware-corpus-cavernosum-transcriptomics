@@ -1,0 +1,79 @@
+{
+  "title": "Donor-aware corpus cavernosum transcriptomics reanalysis in erectile dysfunction and diabetes",
+  "upload_type": "dataset",
+  "description": "Code, compact processed inputs, metadata, result tables, selected figures, and reproducibility documentation for a donor-aware reanalysis of public corpus cavernosum transcriptomics datasets in erectile dysfunction and diabetes. The archive includes scripts and compact outputs needed to inspect the analyses, rerun lightweight verification steps, and rebuild processed products from public or controlled-access source datasets where access permits.",
+  "version": "v2.0.0",
+  "creators": [
+    {
+      "name": "Liegertova, Michaela"
+    },
+    {
+      "name": "Broul, Marek"
+    }
+  ],
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "single-cell RNA-seq",
+    "transcriptomics",
+    "erectile dysfunction",
+    "diabetes",
+    "corpus cavernosum",
+    "pseudobulk",
+    "reproducibility",
+    "SH3BP5",
+    "pericyte"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE206528",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE259348",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE259299",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE228900",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE126005",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE146500",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE261085",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE131882",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://ngdc.cncb.ac.cn/gsa-human/browse/HRA010374",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://doi.org/10.3389/fendo.2025.1671482",
+      "relation": "cites",
+      "resource_type": "publication"
+    }
+  ]
+}

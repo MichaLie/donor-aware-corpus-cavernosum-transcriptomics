@@ -1,0 +1,24 @@
+leiden_r0_5	major_cell_type	subtype_hint	evidence_markers	annotation_confidence	notes	author_7_major_clusters_best_match	author_7_major_clusters_top100_overlap	author_7_major_clusters_jaccard	author_11_subclusters_best_match	author_11_subclusters_top100_overlap	author_11_subclusters_jaccard
+0	Endothelial	endothelial_CCL14_EMCN	CCL14,EMCN,MMRN1,CLEC14A,VWF	high	Canonical endothelial marker score and marker genes.	EC	46	0.2987012987012987	CC EC	47	0.3071895424836601
+1	Macrophage	macrophage_antigen_presenting	HLA-DRA,TYROBP,CD74,C1QA,C1QB,CTSS	high	Macrophage/myeloid cluster.	MAC	85	0.7391304347826086	MAC	85	0.7391304347826086
+2	Fibroblast	matrix_fibroblast	COL1A1,COL1A2,COL3A1,LUM,PCOLCE	high	Canonical fibroblast/ECM cluster.	FB	50	0.3333333333333333	PI16+ FB	55	0.3793103448275862
+3	Endothelial	ACKR1_endothelial	ACKR1,AQP1,IFI27,ITM2A,CD74	medium	Endothelial score and vascular markers; HLA genes suggest activated/endothelial-immune interface.	EC	34	0.2048192771084337	CC EC	33	0.1976047904191616
+4	T_cell	cytotoxic_or_T_cell	PTPRC,IL32,CCL5,CD52,GZMA,CD2	high	T-cell/immune cluster.	T	58	0.4084507042253521	T	59	0.4184397163120567
+5	Fibroblast	matrix_fibroblast_APOD_DCN	APOD,DPT,MFAP4,FBLN1,DCN,LUM	high	Fibroblast/ECM cluster.	FB	73	0.5748031496062992	PI16+ FB	71	0.5503875968992248
+6	Mural	pericyte_smooth_muscle_like	NOTCH3,MYL9,ACTA2,CALD1,IGFBP7	medium	Mural cluster with pericyte and smooth-muscle markers.	PC	61	0.4388489208633093	PC	62	0.4492753623188406
+7	Endothelial	VWF_PLAT_endothelial	VWF,PLAT,ADGRF5,MMRN1,CLEC14A,EMCN	high	Endothelial markers dominate.	EC	57	0.3986013986013986	CC EC	56	0.3888888888888889
+8	Mural	smooth_muscle_pericyte	RGS5,TAGLN,ACTA2,MYH11,MYL9,CALD1	high	Mural cluster, likely smooth muscle/pericyte continuum.	SMC	72	0.5625	Vessel SMC	81	0.680672268907563
+9	Fibroblast	PTGDS_IGF1_fibroblast	PTGDS,IGF1,CFD,SERPINF1,LUM,DCN	high	Fibroblast marker score and stromal markers.	FB	59	0.4184397163120567	APOC1+ FB	60	0.4285714285714285
+10	Endothelial	PECAM1_CLDN5_endothelial	PECAM1,CLDN5,ICAM2,CAV1,RAMP2,EPAS1	high	Canonical endothelial cluster.	EC	34	0.2048192771084337	Vessel EC	68	0.5151515151515151
+11	Fibroblast	PI16_like_fibroblast	APOD,ABCA8,DCN,GPC3,PI16,OGN,LUM	high	Fibroblast/stromal cluster.	FB	35	0.2121212121212121	PI16+ FB	34	0.2048192771084337
+12	Mural	smooth_muscle_pericyte	RGS5,MYH11,ACTA2,TAGLN,MYL9,MCAM	high	Mural cluster, likely smooth muscle/pericyte continuum.	SMC	73	0.5748031496062992	Vessel SMC	84	0.7241379310344828
+13	Smooth_muscle	contractile_smooth_muscle	DES,ACTG2,MYLK,MYH11,CNN1,ACTA2	high	Strong contractile smooth-muscle markers.	SMC	64	0.4705882352941176	CC SMC	71	0.5503875968992248
+14	Endothelial	VWF_PLAT_endothelial	VWF,PLAT,EGFL7,ADGRF5,SPARCL1	high	Endothelial markers dominate.	EC	58	0.4084507042253521	CC EC	58	0.4084507042253521
+15	Fibroblast	activated_matrix_fibroblast	TIMP3,GSN,APOD,COL6A3,MMP2,DCN,PDGFRA	high	Fibroblast marker score and ECM/remodeling markers.	FB	52	0.3513513513513513	PI16+ FB	51	0.3422818791946309
+16	Schwann_neural	Schwann_or_neural	NRXN1,GPM6B,S100B,CDH19,PLP1,PMP22	high	Neural/Schwann marker cluster.	SWC	67	0.5037593984962406	SWC	67	0.5037593984962406
+17	Fibroblast	immediate_early_fibroblast	JUND,ZFP36,SOCS3,CYR61,FOSB,KLF9	low	Fibroblast score positive but immediate-early/stress genes dominate; low-confidence annotation.	FB	31	0.1834319526627219	PI16+ FB	31	0.1834319526627219
+18	Endothelial	PLAT_CLEC14A_endothelial	PLAT,CLEC14A,ADGRF5,EMCN,EGFL7,PODXL	high	Endothelial markers dominate.	EC	57	0.3986013986013986	CC EC	58	0.4084507042253521
+19	Fibroblast	stress_or_IGFBP5_fibroblast	IGFBP5,IGF1,DNAJB1,HSP90AA1,HSPA1A,HSPA1B	low	Fibroblast score positive but heat-shock/stress genes dominate; low-confidence annotation.	FB	39	0.2422360248447205	PI16+ FB	37	0.2269938650306748
+20	Fibroblast	matrix_remodeling_fibroblast	TIMP3,SERPINF1,HSD11B1,LGALS3,CFD,GSN	medium	Fibroblast/stromal cluster with remodeling markers.	FB	49	0.3245033112582781	PI16+ FB	47	0.3071895424836601
+21	Endothelial	TM4SF1_APOLD1_endothelial	APOLD1,TM4SF1,ECSCR,CLU,CD9,EMP1	medium	Endothelial score positive; activated endothelial/stress-like markers.	EC	37	0.2269938650306748	CC EC	38	0.2345679012345679
+22	Endothelial	stress_or_activated_endothelial	APOLD1,THBD,TM4SF1,SOCS3,SLC2A3,KLF9	low	Endothelial-like but stress/activation genes dominate; low-confidence annotation.	EC	30	0.1764705882352941	CC EC	30	0.1764705882352941

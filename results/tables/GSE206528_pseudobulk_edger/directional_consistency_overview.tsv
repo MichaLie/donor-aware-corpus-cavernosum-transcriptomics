@@ -1,0 +1,13 @@
+cell_type	comparison	n_FDR_0_10	n_FDR_0_05	n_FDR_0_05_directionally_consistent
+Endothelial	diabetic_ED_vs_normal	1	1	1
+Endothelial	non_diabetic_ED_vs_normal	1	1	1
+Endothelial	organic_ED_vs_normal	26	0	0
+Fibroblast	diabetic_ED_vs_normal	18	10	10
+Fibroblast	non_diabetic_ED_vs_normal	177	43	43
+Fibroblast	organic_ED_vs_normal	92	21	21
+Macrophage	diabetic_ED_vs_normal	1	1	1
+Macrophage	non_diabetic_ED_vs_normal	1	1	1
+Macrophage	organic_ED_vs_normal	1	1	1
+Mural	diabetic_ED_vs_normal	95	24	24
+Mural	organic_ED_vs_normal	173	75	75
+T_cell	diabetic_ED_vs_normal	13	4	4

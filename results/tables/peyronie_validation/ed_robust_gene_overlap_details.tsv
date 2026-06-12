@@ -1,0 +1,288 @@
+cell_type	ed_comparison	dataset	peyronie_comparison	gene_symbol	ed_logFC	ed_FDR	peyronie_logFC	peyronie_FDR	same_direction	opposite_direction	validation_mode	program_ids	has_curated_program
+Fibroblast	diabetic_ED_vs_normal	GSE146500	PFPC_vs_NF	AREG	5.98996671037323	0.0167886666856756	-6.39764007998369	1.3372225302629402e-09	False	True	disease_opposite_direction	diabetes_age_metabolic	True
+Fibroblast	diabetic_ED_vs_normal	GSE146500	PFPC_vs_NF	NR4A2	2.76802799400572	0.0167886666856756	-1.27406155477303	5.11209304892391e-06	False	True	disease_opposite_direction	immediate_early_stress	True
+Fibroblast	diabetic_ED_vs_normal	GSE146500	PFPC_vs_NF	FILIP1L	3.04645473179974	0.0167886666856756	-0.425426698211194	2.99531741068508e-05	False	True	disease_opposite_direction	diabetes_age_metabolic	True
+Fibroblast	diabetic_ED_vs_normal	GSE146500	PFPC_vs_NF	NR4A3	5.54127524412666	0.0167886666856756	-1.26359354832095	0.0010437259781287	False	True	disease_opposite_direction	immediate_early_stress	True
+Fibroblast	diabetic_ED_vs_normal	GSE146500	PFPC_vs_NF	ERAP2	-4.07229429713718	0.0167886666856756	-0.506608854499595	0.0026641132672787	True	False	disease_same_direction	diabetes_age_metabolic	True
+Fibroblast	diabetic_ED_vs_normal	GSE146500	PFPC_vs_NF	NCALD	3.05145906901153	0.0167886666856756	0.685016014787989	0.0184599249747964	True	False	disease_same_direction		False
+Fibroblast	diabetic_ED_vs_normal	GSE146500	PFPC_vs_NF	DLX5	-2.50962608944302	0.0274195356572862	-0.606878234379776	0.000905433487375	True	False	disease_same_direction		False
+Fibroblast	diabetic_ED_vs_normal	GSE146500	PFPC_vs_NF	DUSP8	3.3661237870397	0.0340175359719041	-1.36078625314841	0.0007746624448827	False	True	disease_opposite_direction	immediate_early_stress	True
+Fibroblast	diabetic_ED_vs_normal	GSE146500	PFPC_vs_NF	ZC3H12A	3.14459204490105	0.0466332048601497	1.03359920967966	1.07605875730556e-05	True	False	disease_same_direction		False
+Fibroblast	diabetic_ED_vs_normal	GSE146500	PFPC_vs_NF	ETS2	1.93973320388557	0.0466332048601497	-0.868566073639332	5.26025596311516e-07	False	True	disease_opposite_direction		False
+Fibroblast	diabetic_ED_vs_normal	GSE146500	PFPC_vs_PF	FILIP1L	3.04645473179974	0.0167886666856756	-0.616359456898056	1.23893178557251e-05	False	True	treatment_opposes_ED_direction	diabetes_age_metabolic	True
+Fibroblast	diabetic_ED_vs_normal	GSE146500	PF_vs_NF	AREG	5.98996671037323	0.0167886666856756	-4.72021132673511	3.45515094158163e-09	False	True	disease_opposite_direction	diabetes_age_metabolic	True
+Fibroblast	diabetic_ED_vs_normal	GSE146500	PF_vs_NF	NR4A2	2.76802799400572	0.0167886666856756	-1.77960967892499	2.09680752904412e-07	False	True	disease_opposite_direction	immediate_early_stress	True
+Fibroblast	diabetic_ED_vs_normal	GSE146500	PF_vs_NF	FILIP1L	3.04645473179974	0.0167886666856756	0.190932758686862	0.0161704670442691	True	False	disease_same_direction	diabetes_age_metabolic	True
+Fibroblast	diabetic_ED_vs_normal	GSE146500	PF_vs_NF	NR4A3	5.54127524412666	0.0167886666856756	-0.665460134760625	0.03172450488913	False	True	disease_opposite_direction	immediate_early_stress	True
+Fibroblast	diabetic_ED_vs_normal	GSE146500	PF_vs_NF	ERAP2	-4.07229429713718	0.0167886666856756	-0.406753071797038	0.0100027933453253	True	False	disease_same_direction	diabetes_age_metabolic	True
+Fibroblast	diabetic_ED_vs_normal	GSE146500	PF_vs_NF	DLX5	-2.50962608944302	0.0274195356572862	-0.928580377256605	2.15963175116754e-05	True	False	disease_same_direction		False
+Fibroblast	diabetic_ED_vs_normal	GSE146500	PF_vs_NF	DUSP8	3.3661237870397	0.0340175359719041	-1.03625401046424	0.0038494352408613	False	True	disease_opposite_direction	immediate_early_stress	True
+Fibroblast	diabetic_ED_vs_normal	GSE146500	PF_vs_NF	ZC3H12A	3.14459204490105	0.0466332048601497	0.663612332345994	0.0011429035284328	True	False	disease_same_direction		False
+Fibroblast	diabetic_ED_vs_normal	GSE146500	PF_vs_NF	ETS2	1.93973320388557	0.0466332048601497	-0.939244553621896	1.92381903818962e-07	False	True	disease_opposite_direction		False
+Fibroblast	non_diabetic_ED_vs_normal	GSE126005	PD_plaque_vs_control	PLA2G2A	2.84449430152587	0.0278880628665795	2.98673437918866	0.0079826489260881	True	False	disease_same_direction		False
+Fibroblast	non_diabetic_ED_vs_normal	GSE126005	PD_plaque_vs_control	DUSP5	3.56953359202299	0.0441806582223546	2.13555805476594	0.010249753004004	True	False	disease_same_direction	immediate_early_stress	True
+Fibroblast	non_diabetic_ED_vs_normal	GSE126005	PD_plaque_vs_control	LRRC17	2.14734235570434	0.0469652215971461	1.13052178652169	0.0405726085043798	True	False	disease_same_direction		False
+Fibroblast	non_diabetic_ED_vs_normal	GSE146500	PFPC_vs_NF	BMPER	2.48366124347007	0.0056995096834593	-2.28652758660201	8.72760983426043e-10	False	True	disease_opposite_direction		False
+Fibroblast	non_diabetic_ED_vs_normal	GSE146500	PFPC_vs_NF	PDE8B	1.9186981767196	0.0278880628665795	-0.473794997398855	0.0247201634505873	False	True	disease_opposite_direction		False
+Fibroblast	non_diabetic_ED_vs_normal	GSE146500	PFPC_vs_NF	SMOC1	1.84050629827272	0.0278880628665795	-2.18470014893813	1.0118661355092e-09	False	True	disease_opposite_direction		False
+Fibroblast	non_diabetic_ED_vs_normal	GSE146500	PFPC_vs_NF	PDE3B	2.98066489232656	0.0278880628665795	-6.91778514402505	1.91958962714314e-13	False	True	disease_opposite_direction	smooth_muscle_contractility	True
+Fibroblast	non_diabetic_ED_vs_normal	GSE146500	PFPC_vs_NF	MECOM	-3.13561627285425	0.0278880628665795	2.0550345415967	4.18702358539e-13	False	True	disease_opposite_direction		False
+Fibroblast	non_diabetic_ED_vs_normal	GSE146500	PFPC_vs_NF	NR4A2	1.98705253193218	0.0278880628665795	-1.27406155477303	5.11209304892391e-06	False	True	disease_opposite_direction	immediate_early_stress	True
+Fibroblast	non_diabetic_ED_vs_normal	GSE146500	PFPC_vs_NF	NPR3	-1.89594888129302	0.0278880628665795	1.88576299644727	3.0152715294705295e-11	False	True	disease_opposite_direction		False
+Fibroblast	non_diabetic_ED_vs_normal	GSE146500	PFPC_vs_NF	COL4A6	1.99045118638524	0.0354180167129558	-6.96574015081832	6.56163716824507e-16	False	True	disease_opposite_direction	ecm_fibrosis	True
+Fibroblast	non_diabetic_ED_vs_normal	GSE146500	PFPC_vs_NF	EFNB2	1.7773255479434	0.0355098403662652	-1.20329597963822	7.9028240582973e-08	False	True	disease_opposite_direction	endothelial_no_angiogenesis	True
+Fibroblast	non_diabetic_ED_vs_normal	GSE146500	PFPC_vs_NF	RORB	2.90237329019763	0.0379717519914702	-6.83722962623971	6.52959324040025e-14	False	True	disease_opposite_direction		False
+Fibroblast	non_diabetic_ED_vs_normal	GSE146500	PFPC_vs_NF	TYMS	-2.3808556083744	0.0379717519914702	-1.00534505455302	4.1276907573454595e-11	True	False	disease_same_direction		False
+Fibroblast	non_diabetic_ED_vs_normal	GSE146500	PFPC_vs_NF	PDK4	3.09036533633312	0.0388481637518955	-7.58994065675542	2.1951142183836602e-15	False	True	disease_opposite_direction	diabetes_age_metabolic,hypoxia_oxidative_metabolism	True
+Fibroblast	non_diabetic_ED_vs_normal	GSE146500	PFPC_vs_NF	COL4A5	1.59564695918892	0.0422828157926761	-4.40647847671781	6.29394958135914e-13	False	True	disease_opposite_direction	ecm_fibrosis	True
+Fibroblast	non_diabetic_ED_vs_normal	GSE146500	PFPC_vs_NF	KLHL15	1.9949248572695	0.0422828157926761	0.770654564138008	3.63521494940293e-06	True	False	disease_same_direction		False
+Fibroblast	non_diabetic_ED_vs_normal	GSE146500	PFPC_vs_NF	DUSP8	3.15190390074915	0.0422828157926761	-1.36078625314841	0.0007746624448827	False	True	disease_opposite_direction	immediate_early_stress	True
+Fibroblast	non_diabetic_ED_vs_normal	GSE146500	PFPC_vs_NF	SCUBE2	2.78151148296737	0.0441806582223546	-1.01594378864054	0.0002481210836506	False	True	disease_opposite_direction		False
+Fibroblast	non_diabetic_ED_vs_normal	GSE146500	PFPC_vs_NF	SRF	1.70341370713858	0.0447159845428638	0.502141337258747	2.38702079736378e-06	True	False	disease_same_direction		False
+Fibroblast	non_diabetic_ED_vs_normal	GSE146500	PFPC_vs_NF	TCEAL6	2.2210894644087	0.0469652215971461	-0.850715949104098	0.0001394578650047	False	True	disease_opposite_direction		False
+Fibroblast	non_diabetic_ED_vs_normal	GSE146500	PFPC_vs_NF	ADAMTS1	3.16340268606135	0.0469652215971461	-2.31532545817355	1.7146809565598601e-15	False	True	disease_opposite_direction	ecm_fibrosis	True
+Fibroblast	non_diabetic_ED_vs_normal	GSE146500	PFPC_vs_PF	BMPER	2.48366124347007	0.0056995096834593	-1.0584440190391	0.0010593642850834	False	True	treatment_opposes_ED_direction		False
+Fibroblast	non_diabetic_ED_vs_normal	GSE146500	PFPC_vs_PF	SMOC1	1.84050629827272	0.0278880628665795	1.7756644798709	8.41600298143264e-05	True	False	treatment_matches_ED_direction		False
+Fibroblast	non_diabetic_ED_vs_normal	GSE146500	PFPC_vs_PF	NPR3	-1.89594888129302	0.0278880628665795	-0.390437090539934	0.007212674994665	True	False	treatment_matches_ED_direction		False
+Fibroblast	non_diabetic_ED_vs_normal	GSE146500	PFPC_vs_PF	ADAMTS1	3.16340268606135	0.0469652215971461	-0.591633706985342	3.5104292060268e-06	False	True	treatment_opposes_ED_direction	ecm_fibrosis	True
+Fibroblast	non_diabetic_ED_vs_normal	GSE146500	PF_vs_NF	BMPER	2.48366124347007	0.0056995096834593	-1.22808356756291	3.20194001827289e-07	False	True	disease_opposite_direction		False
+Fibroblast	non_diabetic_ED_vs_normal	GSE146500	PF_vs_NF	PDE8B	1.9186981767196	0.0278880628665795	-0.536777575487674	0.0123514232365401	False	True	disease_opposite_direction		False
+Fibroblast	non_diabetic_ED_vs_normal	GSE146500	PF_vs_NF	SMOC1	1.84050629827272	0.0278880628665795	-3.96036462880903	6.18272043203959e-12	False	True	disease_opposite_direction		False
+Fibroblast	non_diabetic_ED_vs_normal	GSE146500	PF_vs_NF	PDE3B	2.98066489232656	0.0278880628665795	-7.0244708372325	1.59929823839121e-13	False	True	disease_opposite_direction	smooth_muscle_contractility	True
+Fibroblast	non_diabetic_ED_vs_normal	GSE146500	PF_vs_NF	MECOM	-3.13561627285425	0.0278880628665795	2.09808668018202	2.8762272285751997e-13	False	True	disease_opposite_direction		False
+Fibroblast	non_diabetic_ED_vs_normal	GSE146500	PF_vs_NF	NR4A2	1.98705253193218	0.0278880628665795	-1.77960967892499	2.09680752904412e-07	False	True	disease_opposite_direction	immediate_early_stress	True
+Fibroblast	non_diabetic_ED_vs_normal	GSE146500	PF_vs_NF	NPR3	-1.89594888129302	0.0278880628665795	2.27620008698721	1.78149982825242e-12	False	True	disease_opposite_direction		False
+Fibroblast	non_diabetic_ED_vs_normal	GSE146500	PF_vs_NF	COL4A6	1.99045118638524	0.0354180167129558	-7.28440694332637	4.36247163343866e-16	False	True	disease_opposite_direction	ecm_fibrosis	True
+Fibroblast	non_diabetic_ED_vs_normal	GSE146500	PF_vs_NF	EFNB2	1.7773255479434	0.0355098403662652	-1.30142021784265	2.94658413101231e-08	False	True	disease_opposite_direction	endothelial_no_angiogenesis	True
+Fibroblast	non_diabetic_ED_vs_normal	GSE146500	PF_vs_NF	RORB	2.90237329019763	0.0379717519914702	-6.49404931479511	6.06229811629766e-14	False	True	disease_opposite_direction		False
+Fibroblast	non_diabetic_ED_vs_normal	GSE146500	PF_vs_NF	TYMS	-2.3808556083744	0.0379717519914702	-0.965958396137982	6.092361164121559e-11	True	False	disease_same_direction		False
+Fibroblast	non_diabetic_ED_vs_normal	GSE146500	PF_vs_NF	PDK4	3.09036533633312	0.0388481637518955	-6.9537650894452	2.1821113280533303e-15	False	True	disease_opposite_direction	diabetes_age_metabolic,hypoxia_oxidative_metabolism	True
+Fibroblast	non_diabetic_ED_vs_normal	GSE146500	PF_vs_NF	COL4A5	1.59564695918892	0.0422828157926761	-4.35058728702669	5.86885610626636e-13	False	True	disease_opposite_direction	ecm_fibrosis	True
+Fibroblast	non_diabetic_ED_vs_normal	GSE146500	PF_vs_NF	KLHL15	1.9949248572695	0.0422828157926761	0.789602864948591	2.40062735772279e-06	True	False	disease_same_direction		False
+Fibroblast	non_diabetic_ED_vs_normal	GSE146500	PF_vs_NF	DUSP8	3.15190390074915	0.0422828157926761	-1.03625401046424	0.0038494352408613	False	True	disease_opposite_direction	immediate_early_stress	True
+Fibroblast	non_diabetic_ED_vs_normal	GSE146500	PF_vs_NF	MSI1	3.76399708657817	0.0441806582223546	0.92787461314997	0.0315599458851024	True	False	disease_same_direction		False
+Fibroblast	non_diabetic_ED_vs_normal	GSE146500	PF_vs_NF	DUSP5	3.56953359202299	0.0441806582223546	-0.41591978273737	0.000308414713961	False	True	disease_opposite_direction	immediate_early_stress	True
+Fibroblast	non_diabetic_ED_vs_normal	GSE146500	PF_vs_NF	SCUBE2	2.78151148296737	0.0441806582223546	-1.14488472295018	8.43689546594347e-05	False	True	disease_opposite_direction		False
+Fibroblast	non_diabetic_ED_vs_normal	GSE146500	PF_vs_NF	SRF	1.70341370713858	0.0447159845428638	0.670937061503349	5.83403705950964e-08	True	False	disease_same_direction		False
+Fibroblast	non_diabetic_ED_vs_normal	GSE146500	PF_vs_NF	LRRC17	2.14734235570434	0.0469652215971461	0.435904622996425	0.0009627721454278	True	False	disease_same_direction		False
+Fibroblast	non_diabetic_ED_vs_normal	GSE146500	PF_vs_NF	TCEAL6	2.2210894644087	0.0469652215971461	-0.878511437205509	9.41510241804337e-05	False	True	disease_opposite_direction		False
+Fibroblast	non_diabetic_ED_vs_normal	GSE146500	PF_vs_NF	ADAMTS1	3.16340268606135	0.0469652215971461	-1.72369175118821	4.36894356336412e-14	False	True	disease_opposite_direction	ecm_fibrosis	True
+Fibroblast	organic_ED_vs_normal	GSE126005	PD_plaque_vs_control	DUSP5	3.71803054324018	0.0426738879562404	2.13555805476594	0.010249753004004	True	False	disease_same_direction	immediate_early_stress	True
+Fibroblast	organic_ED_vs_normal	GSE126005	PD_plaque_vs_control	GPR68	-2.30371214031067	0.0486906796368846	1.65980037261799	0.0076256080169894	False	True	disease_opposite_direction		False
+Fibroblast	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	MECOM	-3.15025822069696	0.0109537703928927	2.0550345415967	4.18702358539e-13	False	True	disease_opposite_direction		False
+Fibroblast	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	GREM1	-7.56152902843581	0.0109537703928927	1.55832044210518	5.52355303757966e-12	False	True	disease_opposite_direction	tgfb_wnt_hippo	True
+Fibroblast	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	TYMS	-2.29204708313866	0.0161718403176952	-1.00534505455302	4.1276907573454595e-11	True	False	disease_same_direction		False
+Fibroblast	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	DUSP8	3.24875072828162	0.0170151585304448	-1.36078625314841	0.0007746624448827	False	True	disease_opposite_direction	immediate_early_stress	True
+Fibroblast	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	NR4A2	2.35273577224672	0.0258315518679054	-1.27406155477303	5.11209304892391e-06	False	True	disease_opposite_direction	immediate_early_stress	True
+Fibroblast	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	NR4A1	3.09862893423336	0.0258315518679054	-0.652444121358956	0.0169885280175976	False	True	disease_opposite_direction	immediate_early_stress	True
+Fibroblast	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	LINC01021	-3.34665499699416	0.0258315518679054	2.12208467407105	2.13017954166513e-05	False	True	disease_opposite_direction		False
+Fibroblast	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	NCALD	3.00769415754208	0.0258315518679054	0.685016014787989	0.0184599249747964	True	False	disease_same_direction		False
+Fibroblast	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	SRF	1.68557889756612	0.0258315518679054	0.502141337258747	2.38702079736378e-06	True	False	disease_same_direction		False
+Fibroblast	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	KLHL15	2.03270249120002	0.0392714153481743	0.770654564138008	3.63521494940293e-06	True	False	disease_same_direction		False
+Fibroblast	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	SLC19A2	1.70083295646319	0.0392714153481743	1.37765567526287	1.1467789746268602e-09	True	False	disease_same_direction		False
+Fibroblast	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	DPP4	-4.49571835675777	0.0426738879562404	-2.49556593761943	8.68196602411612e-14	True	False	disease_same_direction		False
+Fibroblast	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	ADAMTS1	2.94335588638802	0.0426738879562404	-2.31532545817355	1.7146809565598601e-15	False	True	disease_opposite_direction	ecm_fibrosis	True
+Fibroblast	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	TMEM200C	1.37978838903407	0.0426738879562404	-1.68831971076052	1.46656748573503e-06	False	True	disease_opposite_direction		False
+Fibroblast	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	GPR68	-2.30371214031067	0.0486906796368846	0.715228875619145	9.31751056574447e-07	False	True	disease_opposite_direction		False
+Fibroblast	organic_ED_vs_normal	GSE146500	PFPC_vs_PF	GREM1	-7.56152902843581	0.0109537703928927	-0.353301060538343	0.0028357458922318	True	False	treatment_matches_ED_direction	tgfb_wnt_hippo	True
+Fibroblast	organic_ED_vs_normal	GSE146500	PFPC_vs_PF	NR4A1	3.09862893423336	0.0258315518679054	-2.21892423737927	1.03642071542168e-06	False	True	treatment_opposes_ED_direction	immediate_early_stress	True
+Fibroblast	organic_ED_vs_normal	GSE146500	PFPC_vs_PF	DPP4	-4.49571835675777	0.0426738879562404	-0.9467512349114	2.48176600092512e-06	True	False	treatment_matches_ED_direction		False
+Fibroblast	organic_ED_vs_normal	GSE146500	PFPC_vs_PF	ADAMTS1	2.94335588638802	0.0426738879562404	-0.591633706985342	3.5104292060268e-06	False	True	treatment_opposes_ED_direction	ecm_fibrosis	True
+Fibroblast	organic_ED_vs_normal	GSE146500	PFPC_vs_PF	GPR68	-2.30371214031067	0.0486906796368846	0.804690670763319	1.0767250548362e-05	False	True	treatment_opposes_ED_direction		False
+Fibroblast	organic_ED_vs_normal	GSE146500	PF_vs_NF	MECOM	-3.15025822069696	0.0109537703928927	2.09808668018202	2.8762272285751997e-13	False	True	disease_opposite_direction		False
+Fibroblast	organic_ED_vs_normal	GSE146500	PF_vs_NF	GREM1	-7.56152902843581	0.0109537703928927	1.91162150264352	3.65043741745737e-13	False	True	disease_opposite_direction	tgfb_wnt_hippo	True
+Fibroblast	organic_ED_vs_normal	GSE146500	PF_vs_NF	TYMS	-2.29204708313866	0.0161718403176952	-0.965958396137982	6.092361164121559e-11	True	False	disease_same_direction		False
+Fibroblast	organic_ED_vs_normal	GSE146500	PF_vs_NF	DUSP8	3.24875072828162	0.0170151585304448	-1.03625401046424	0.0038494352408613	False	True	disease_opposite_direction	immediate_early_stress	True
+Fibroblast	organic_ED_vs_normal	GSE146500	PF_vs_NF	NR4A2	2.35273577224672	0.0258315518679054	-1.77960967892499	2.09680752904412e-07	False	True	disease_opposite_direction	immediate_early_stress	True
+Fibroblast	organic_ED_vs_normal	GSE146500	PF_vs_NF	NR4A1	3.09862893423336	0.0258315518679054	1.56648011602031	1.90025957514468e-07	True	False	disease_same_direction	immediate_early_stress	True
+Fibroblast	organic_ED_vs_normal	GSE146500	PF_vs_NF	LINC01021	-3.34665499699416	0.0258315518679054	2.305418903746	5.38587182461437e-06	False	True	disease_opposite_direction		False
+Fibroblast	organic_ED_vs_normal	GSE146500	PF_vs_NF	SRF	1.68557889756612	0.0258315518679054	0.670937061503349	5.83403705950964e-08	True	False	disease_same_direction		False
+Fibroblast	organic_ED_vs_normal	GSE146500	PF_vs_NF	KLHL15	2.03270249120002	0.0392714153481743	0.789602864948591	2.40062735772279e-06	True	False	disease_same_direction		False
+Fibroblast	organic_ED_vs_normal	GSE146500	PF_vs_NF	SLC19A2	1.70083295646319	0.0392714153481743	1.56914459359897	1.45079639922842e-10	True	False	disease_same_direction		False
+Fibroblast	organic_ED_vs_normal	GSE146500	PF_vs_NF	DPP4	-4.49571835675777	0.0426738879562404	-1.54881470270803	1.64524858445173e-11	True	False	disease_same_direction		False
+Fibroblast	organic_ED_vs_normal	GSE146500	PF_vs_NF	ADAMTS1	2.94335588638802	0.0426738879562404	-1.72369175118821	4.36894356336412e-14	False	True	disease_opposite_direction	ecm_fibrosis	True
+Fibroblast	organic_ED_vs_normal	GSE146500	PF_vs_NF	TMEM200C	1.37978838903407	0.0426738879562404	-1.95171671066132	3.69927222249927e-07	False	True	disease_opposite_direction		False
+Fibroblast	organic_ED_vs_normal	GSE146500	PF_vs_NF	DUSP5	3.71803054324018	0.0426738879562404	-0.41591978273737	0.000308414713961	False	True	disease_opposite_direction	immediate_early_stress	True
+Mural	diabetic_ED_vs_normal	GSE126005	PD_plaque_vs_control	DUSP5	3.55450969066455	0.0310333164396307	2.13555805476594	0.010249753004004	True	False	disease_same_direction	immediate_early_stress	True
+Mural	diabetic_ED_vs_normal	GSE126005	PD_plaque_vs_control	THBD	2.17043042738684	0.0417670389148131	1.2845371403467	0.0101309151923632	True	False	disease_same_direction		False
+Mural	diabetic_ED_vs_normal	GSE126005	PD_plaque_vs_control	CSPG4	1.9713456920937	0.0417670389148131	-0.593165368266228	0.0302842585726343	False	True	disease_opposite_direction		False
+Mural	diabetic_ED_vs_normal	GSE126005	PD_plaque_vs_control	ADAMTS9	2.4411799409653	0.0417670389148131	1.73245307976805	0.0021867018322365	True	False	disease_same_direction		False
+Mural	diabetic_ED_vs_normal	GSE146500	PFPC_vs_NF	ERAP2	-4.07416883361962	0.0310333164396307	-0.506608854499595	0.0026641132672787	True	False	disease_same_direction	diabetes_age_metabolic	True
+Mural	diabetic_ED_vs_normal	GSE146500	PFPC_vs_NF	TRIB1	4.48685276198921	0.0310333164396307	1.25036863717331	4.80523015730838e-11	True	False	disease_same_direction		False
+Mural	diabetic_ED_vs_normal	GSE146500	PFPC_vs_NF	DNAH11	-4.77839937046901	0.0310333164396307	1.40939041763074	7.40770363141626e-08	False	True	disease_opposite_direction		False
+Mural	diabetic_ED_vs_normal	GSE146500	PFPC_vs_NF	ABCC9	-2.62902657458597	0.0310333164396307	0.373664716938369	0.0171511481352465	False	True	disease_opposite_direction	smooth_muscle_contractility	True
+Mural	diabetic_ED_vs_normal	GSE146500	PFPC_vs_NF	NEDD9	2.49971800091054	0.0310333164396307	4.95210560062086	3.04446258921074e-14	True	False	disease_same_direction		False
+Mural	diabetic_ED_vs_normal	GSE146500	PFPC_vs_NF	GUCY1A2	-2.18078661550501	0.0417670389148131	0.85968251977021	0.0092389162977304	False	True	disease_opposite_direction	endothelial_no_angiogenesis,smooth_muscle_contractility	True
+Mural	diabetic_ED_vs_normal	GSE146500	PFPC_vs_NF	CSGALNACT1	-2.42304157661403	0.0417670389148131	-0.661576960566219	0.0001649279978471	True	False	disease_same_direction		False
+Mural	diabetic_ED_vs_normal	GSE146500	PFPC_vs_NF	THBS1	3.57087971665322	0.0417670389148131	2.59630362574775	8.532906148681449e-12	True	False	disease_same_direction	ecm_fibrosis	True
+Mural	diabetic_ED_vs_normal	GSE146500	PFPC_vs_NF	HSPB8	2.360683049453	0.0417670389148131	-0.59406368450199	3.52815060627971e-06	False	True	disease_opposite_direction	immediate_early_stress	True
+Mural	diabetic_ED_vs_normal	GSE146500	PFPC_vs_NF	HBEGF	3.92814587198095	0.0417670389148131	4.94498632126961	6.4229520442185e-16	True	False	disease_same_direction		False
+Mural	diabetic_ED_vs_normal	GSE146500	PFPC_vs_NF	CSPG4	1.9713456920937	0.0417670389148131	-1.90256434128891	1.29285516834693e-13	False	True	disease_opposite_direction		False
+Mural	diabetic_ED_vs_normal	GSE146500	PFPC_vs_NF	DLX5	-2.24255648477894	0.0417670389148131	-0.606878234379776	0.000905433487375	True	False	disease_same_direction		False
+Mural	diabetic_ED_vs_normal	GSE146500	PFPC_vs_NF	FABP4	-2.655249452053	0.0417670389148131	-13.3364577920826	2.85445435466279e-12	True	False	disease_same_direction		False
+Mural	diabetic_ED_vs_normal	GSE146500	PFPC_vs_NF	BTC	2.59609802545093	0.0417670389148131	-5.67602270238378	9.87285864348825e-08	False	True	disease_opposite_direction		False
+Mural	diabetic_ED_vs_normal	GSE146500	PFPC_vs_NF	HIC1	-1.95553659570981	0.0417670389148131	2.71435569119047	2.33192509970425e-13	False	True	disease_opposite_direction		False
+Mural	diabetic_ED_vs_normal	GSE146500	PFPC_vs_NF	NR4A3	4.67005139925669	0.0417670389148131	-1.26359354832095	0.0010437259781287	False	True	disease_opposite_direction	immediate_early_stress	True
+Mural	diabetic_ED_vs_normal	GSE146500	PFPC_vs_NF	MAP3K7CL	2.38814383147254	0.043043705167197	0.474238109755173	0.0167867675146154	True	False	disease_same_direction		False
+Mural	diabetic_ED_vs_normal	GSE146500	PFPC_vs_PF	TRIB1	4.48685276198921	0.0310333164396307	0.526078692827628	5.29572024488587e-05	True	False	treatment_matches_ED_direction		False
+Mural	diabetic_ED_vs_normal	GSE146500	PFPC_vs_PF	NEDD9	2.49971800091054	0.0310333164396307	-0.558626611576117	0.0010601125380705	False	True	treatment_opposes_ED_direction		False
+Mural	diabetic_ED_vs_normal	GSE146500	PFPC_vs_PF	CSGALNACT1	-2.42304157661403	0.0417670389148131	0.94685940162916	0.0009510910817587	False	True	treatment_opposes_ED_direction		False
+Mural	diabetic_ED_vs_normal	GSE146500	PFPC_vs_PF	THBS1	3.57087971665322	0.0417670389148131	-0.768779847746089	0.0001764642928918	False	True	treatment_opposes_ED_direction	ecm_fibrosis	True
+Mural	diabetic_ED_vs_normal	GSE146500	PFPC_vs_PF	HSPB8	2.360683049453	0.0417670389148131	0.290237736626465	0.0363203260981405	True	False	treatment_matches_ED_direction	immediate_early_stress	True
+Mural	diabetic_ED_vs_normal	GSE146500	PFPC_vs_PF	HBEGF	3.92814587198095	0.0417670389148131	-0.766138972024917	3.66867916936615e-06	False	True	treatment_opposes_ED_direction		False
+Mural	diabetic_ED_vs_normal	GSE146500	PFPC_vs_PF	CSPG4	1.9713456920937	0.0417670389148131	-0.369386534772462	0.0016088281566632	False	True	treatment_opposes_ED_direction		False
+Mural	diabetic_ED_vs_normal	GSE146500	PFPC_vs_PF	HIC1	-1.95553659570981	0.0417670389148131	0.337081515883634	0.0148855288137217	False	True	treatment_opposes_ED_direction		False
+Mural	diabetic_ED_vs_normal	GSE146500	PF_vs_NF	ERAP2	-4.07416883361962	0.0310333164396307	-0.406753071797038	0.0100027933453253	True	False	disease_same_direction	diabetes_age_metabolic	True
+Mural	diabetic_ED_vs_normal	GSE146500	PF_vs_NF	TRIB1	4.48685276198921	0.0310333164396307	0.724289944345681	7.42588905106516e-08	True	False	disease_same_direction		False
+Mural	diabetic_ED_vs_normal	GSE146500	PF_vs_NF	DNAH11	-4.77839937046901	0.0310333164396307	1.08358881705648	2.60712585979095e-06	False	True	disease_opposite_direction		False
+Mural	diabetic_ED_vs_normal	GSE146500	PF_vs_NF	DUSP5	3.55450969066455	0.0310333164396307	-0.41591978273737	0.000308414713961	False	True	disease_opposite_direction	immediate_early_stress	True
+Mural	diabetic_ED_vs_normal	GSE146500	PF_vs_NF	NEDD9	2.49971800091054	0.0310333164396307	5.51073221219697	5.0005601094606e-15	True	False	disease_same_direction		False
+Mural	diabetic_ED_vs_normal	GSE146500	PF_vs_NF	GUCY1A2	-2.18078661550501	0.0417670389148131	1.02803722734505	0.0020415989264049	False	True	disease_opposite_direction	endothelial_no_angiogenesis,smooth_muscle_contractility	True
+Mural	diabetic_ED_vs_normal	GSE146500	PF_vs_NF	CSGALNACT1	-2.42304157661403	0.0417670389148131	-1.60843636219538	2.7741589178648e-08	True	False	disease_same_direction		False
+Mural	diabetic_ED_vs_normal	GSE146500	PF_vs_NF	THBS1	3.57087971665322	0.0417670389148131	3.36508347349384	4.49431045881595e-13	True	False	disease_same_direction	ecm_fibrosis	True
+Mural	diabetic_ED_vs_normal	GSE146500	PF_vs_NF	HSPB8	2.360683049453	0.0417670389148131	-0.884301421128455	3.32015004828917e-08	False	True	disease_opposite_direction	immediate_early_stress	True
+Mural	diabetic_ED_vs_normal	GSE146500	PF_vs_NF	HBEGF	3.92814587198095	0.0417670389148131	5.71112529329453	7.08508569466399e-17	True	False	disease_same_direction		False
+Mural	diabetic_ED_vs_normal	GSE146500	PF_vs_NF	CSPG4	1.9713456920937	0.0417670389148131	-1.53317780651645	1.54081799055891e-12	False	True	disease_opposite_direction		False
+Mural	diabetic_ED_vs_normal	GSE146500	PF_vs_NF	DLX5	-2.24255648477894	0.0417670389148131	-0.928580377256605	2.15963175116754e-05	True	False	disease_same_direction		False
+Mural	diabetic_ED_vs_normal	GSE146500	PF_vs_NF	FABP4	-2.655249452053	0.0417670389148131	-11.6299270382583	2.53553996258573e-12	True	False	disease_same_direction		False
+Mural	diabetic_ED_vs_normal	GSE146500	PF_vs_NF	BTC	2.59609802545093	0.0417670389148131	-6.45905508426139	5.84897504329388e-08	False	True	disease_opposite_direction		False
+Mural	diabetic_ED_vs_normal	GSE146500	PF_vs_NF	HIC1	-1.95553659570981	0.0417670389148131	2.37727417530684	1.56355516327791e-12	False	True	disease_opposite_direction		False
+Mural	diabetic_ED_vs_normal	GSE146500	PF_vs_NF	NR4A3	4.67005139925669	0.0417670389148131	-0.665460134760625	0.03172450488913	False	True	disease_opposite_direction	immediate_early_stress	True
+Mural	diabetic_ED_vs_normal	GSE146500	PF_vs_NF	MAP3K7CL	2.38814383147254	0.043043705167197	0.699273411350962	0.0008675669985191	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE126005	PD_plaque_vs_control	PTGS2	1.76751950117669	0.0182580545991257	1.8123648584216	0.0220156118069314	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE126005	PD_plaque_vs_control	RP11-631N16.2	-2.0522873425948	0.0182580545991257	0.405477487798394	0.0399158822454213	False	True	disease_opposite_direction		False
+Mural	organic_ED_vs_normal	GSE126005	PD_plaque_vs_control	LYNX1	1.39867089631628	0.0254089181460855	-0.772015815410244	0.0139199880213157	False	True	disease_opposite_direction		False
+Mural	organic_ED_vs_normal	GSE126005	PD_plaque_vs_control	DUSP5	3.52099276849004	0.0375859396222189	2.13555805476594	0.010249753004004	True	False	disease_same_direction	immediate_early_stress	True
+Mural	organic_ED_vs_normal	GSE126005	PD_plaque_vs_control	PDGFRB	-0.947834118887109	0.0457913504244175	0.675188734642032	0.0076836910270465	False	True	disease_opposite_direction		False
+Mural	organic_ED_vs_normal	GSE126005	PD_plaque_vs_control	NRP1	-0.905688892226481	0.0457913504244175	0.485658643282723	0.0065981400079075	False	True	disease_opposite_direction		False
+Mural	organic_ED_vs_normal	GSE126005	PD_plaque_vs_control	MASP1	-2.10573985891868	0.0476379047138343	-0.969305065317926	0.0060171454411794	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE126005	PD_plaque_vs_control	PLTP	-1.72086293271725	0.0476379047138343	1.53321346699775	0.004439267597746	False	True	disease_opposite_direction		False
+Mural	organic_ED_vs_normal	GSE126005	PD_plaque_vs_control	COL1A1	-1.8454805684873	0.0486409711866157	2.44406313204469	0.0415683391767178	False	True	disease_opposite_direction	ecm_fibrosis	True
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	DNAH11	-4.05046752738064	0.0075136225811442	1.40939041763074	7.40770363141626e-08	False	True	disease_opposite_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	GGT5	-2.16208910719408	0.01275225036281	-2.17678685874892	1.80234232663584e-06	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	HIC1	-1.67604282438372	0.0165435315241013	2.71435569119047	2.33192509970425e-13	False	True	disease_opposite_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	CSGALNACT1	-2.01026664321072	0.0171043739925219	-0.661576960566219	0.0001649279978471	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	GUCY1A2	-1.9337334368287	0.0171043739925219	0.85968251977021	0.0092389162977304	False	True	disease_opposite_direction	endothelial_no_angiogenesis,smooth_muscle_contractility	True
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	MYOZ1	1.69411254534578	0.0171043739925219	6.00957813050445	4.375153789555649e-12	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	STEAP4	-2.39886172939268	0.0182580545991257	-5.452618548789	1.6535488601921e-11	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	HGF	-2.05946193814704	0.0182580545991257	-6.07610308551841	4.64556562736407e-13	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	PTGS2	1.76751950117669	0.0182580545991257	1.14335942946656	1.57233282823247e-06	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	NEURL1B	-1.07690131879216	0.0182580545991257	-3.74713061141547	2.31588332912829e-09	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	EMX2OS	-1.6976162074872	0.0245068472009816	-2.74905847747498	1.1270698201859801e-09	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	PROS1	-1.39975587867716	0.0245068472009816	-1.55572005370209	6.12609255427683e-11	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	LSP1	-1.82648071651885	0.0245068472009816	-2.6673153496352	1.3870497800940801e-09	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	NTN4	1.26495521911628	0.0245068472009816	-0.825396171343933	9.06375808204436e-10	False	True	disease_opposite_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	DAAM1	-1.81333945292011	0.0245068472009816	2.40177145278517	9.269945081575041e-15	False	True	disease_opposite_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	BTC	2.89258305835875	0.0247947195445298	-5.67602270238378	9.87285864348825e-08	False	True	disease_opposite_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	LYNX1	1.39867089631628	0.0254089181460855	0.428308201394574	4.60321356920561e-05	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	RHOD	1.46141498361701	0.0262094013361562	-2.1003562641307	5.45144060681628e-10	False	True	disease_opposite_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	MAMDC2	-1.36555543959322	0.0314235057359024	-1.12340428953177	1.55208663970976e-06	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	CYR61	2.16519819618929	0.0335932596756764	1.5857605884379	6.16602546851352e-12	True	False	disease_same_direction	immediate_early_stress,tgfb_wnt_hippo	True
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	SLC38A1	1.72789597994865	0.0363808157241242	1.0415142011352	4.77262617232719e-08	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	NCKAP5	-1.73504373496732	0.0375859396222189	-0.973674159702144	1.57413266892702e-07	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	IGFBP5	-1.48314703942641	0.0412512815209784	2.41166782268703	1.13519841312441e-13	False	True	disease_opposite_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	PDLIM5	1.01218477549189	0.0412512815209784	0.285350497687535	0.0325705905301969	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	HSPB8	1.9276254606075	0.0412512815209784	-0.59406368450199	3.52815060627971e-06	False	True	disease_opposite_direction	immediate_early_stress	True
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	CLSTN2	-2.45398665319931	0.0412512815209784	-5.2737300339612	4.4850655859867e-15	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	SLC44A2	1.09476649766221	0.0412512815209784	0.776327231566129	5.386331136757171e-09	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	GBGT1	-1.72404096091694	0.0413678901063316	-1.15183707745341	5.76971025553415e-05	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	CADM1	-1.40066673244158	0.0448483430467299	-0.791735038174007	8.14962490587431e-06	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	PDGFRB	-0.947834118887109	0.0457913504244175	0.891652822023399	1.09385179564942e-08	False	True	disease_opposite_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	LDOC1	1.51268898214831	0.0457913504244175	-0.678009471600656	1.01018886100886e-06	False	True	disease_opposite_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	NRP1	-0.905688892226481	0.0457913504244175	-0.781406054574146	3.23406816916281e-09	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	RALGPS2	-1.6151135766592	0.0457913504244175	-1.27131291100962	1.05004566686379e-08	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	CD44	-1.36778124096295	0.0476379047138343	-0.999945910934316	3.2228008066252803e-09	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	KCNT2	-1.77460269335341	0.0476379047138343	1.55882974588951	2.50980979976968e-08	False	True	disease_opposite_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	CASC15	-1.35854210275601	0.0476379047138343	3.46027906478909	5.930396387829691e-09	False	True	disease_opposite_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	TMEM59L	1.60996422438265	0.0476379047138343	0.814085786377701	0.0034056332242244	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	MASP1	-2.10573985891868	0.0476379047138343	-3.12407621342805	8.696736228060789e-16	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	CAP2	0.968226843469442	0.0476379047138343	-0.627423327273473	2.10228044367825e-05	False	True	disease_opposite_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	MYOM2	1.80639100962287	0.0476379047138343	-2.41869873165409	1.49036552826215e-06	False	True	disease_opposite_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	PLTP	-1.72086293271725	0.0476379047138343	-0.246192557540055	0.0252065453921007	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	FGF7	-1.62404365244033	0.0479554717661819	-1.09821904781117	2.93002940923645e-10	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	SH3RF1	-0.965472454493416	0.0479554717661819	1.3721438281601	2.7066928974164903e-09	False	True	disease_opposite_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	PHLDB1	-1.01908499765298	0.0479554717661819	1.51252513455506	3.1146923256734e-14	False	True	disease_opposite_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	CYP1B1	-1.04484639953086	0.0486409711866157	-0.475675794891712	8.87486784788552e-05	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	ZNF395	-1.17775907532458	0.0486409711866157	-1.41535458629889	5.90703151262649e-10	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	COL1A1	-1.8454805684873	0.0486409711866157	1.55809616603565	7.79777550579093e-14	False	True	disease_opposite_direction	ecm_fibrosis	True
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	ENTPD1	1.14829420919238	0.0489504772281682	0.600524830302739	3.49524506242057e-05	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	KIAA1671	1.29381480312251	0.0489504772281682	-1.81392932226413	1.7565401241277003e-10	False	True	disease_opposite_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	EPB41L4A-AS1	-0.856025971367938	0.0499672766572255	0.537558897256533	0.0023342016135811	False	True	disease_opposite_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_PF	HIC1	-1.67604282438372	0.0165435315241013	0.337081515883634	0.0148855288137217	False	True	treatment_opposes_ED_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_PF	CSGALNACT1	-2.01026664321072	0.0171043739925219	0.94685940162916	0.0009510910817587	False	True	treatment_opposes_ED_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_PF	MYOZ1	1.69411254534578	0.0171043739925219	-0.872854797354569	0.0001521475778975	False	True	treatment_opposes_ED_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_PF	ZEB2	-1.17206030931234	0.0179338133352767	0.321663564052106	0.0081734340357351	False	True	treatment_opposes_ED_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_PF	PROS1	-1.39975587867716	0.0245068472009816	0.454716962603854	0.0063451620090385	False	True	treatment_opposes_ED_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_PF	NTN4	1.26495521911628	0.0245068472009816	-0.403485725472307	0.0001342412658206	False	True	treatment_opposes_ED_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_PF	DAAM1	-1.81333945292011	0.0245068472009816	0.44553109506003	0.0001388040827472	False	True	treatment_opposes_ED_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_PF	MAMDC2	-1.36555543959322	0.0314235057359024	-0.756434590834808	0.0024229499900431	True	False	treatment_matches_ED_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_PF	CYR61	2.16519819618929	0.0335932596756764	-0.889575520191466	4.85750679866605e-07	False	True	treatment_opposes_ED_direction	immediate_early_stress,tgfb_wnt_hippo	True
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_PF	NCKAP5	-1.73504373496732	0.0375859396222189	0.533159072536216	0.0075053298776744	False	True	treatment_opposes_ED_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_PF	IGFBP5	-1.48314703942641	0.0412512815209784	1.35027856598138	3.20347703711464e-08	False	True	treatment_opposes_ED_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_PF	HSPB8	1.9276254606075	0.0412512815209784	0.290237736626465	0.0363203260981405	True	False	treatment_matches_ED_direction	immediate_early_stress	True
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_PF	CLSTN2	-2.45398665319931	0.0412512815209784	1.36612893029516	0.0150674556933384	False	True	treatment_opposes_ED_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_PF	NRP1	-0.905688892226481	0.0457913504244175	0.305885742000388	0.0022213843222019	False	True	treatment_opposes_ED_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_PF	CAP2	0.968226843469442	0.0476379047138343	-0.547633470802184	0.0012595414817105	False	True	treatment_opposes_ED_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_PF	FGF7	-1.62404365244033	0.0479554717661819	-0.626050941270561	1.37877510037671e-05	True	False	treatment_matches_ED_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_PF	SH3RF1	-0.965472454493416	0.0479554717661819	-0.601443433805867	0.0004388222459982	True	False	treatment_matches_ED_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_PF	PHLDB1	-1.01908499765298	0.0479554717661819	0.338218954585365	0.0001078188307475	False	True	treatment_opposes_ED_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_PF	CYP1B1	-1.04484639953086	0.0486409711866157	0.330365783253153	0.0192467163250582	False	True	treatment_opposes_ED_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_PF	COL1A1	-1.8454805684873	0.0486409711866157	-0.243230785823098	0.0044892018395029	True	False	treatment_matches_ED_direction	ecm_fibrosis	True
+Mural	organic_ED_vs_normal	GSE146500	PF_vs_NF	DNAH11	-4.05046752738064	0.0075136225811442	1.08358881705648	2.60712585979095e-06	False	True	disease_opposite_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PF_vs_NF	GGT5	-2.16208910719408	0.01275225036281	-2.16239061773517	1.62725363330266e-06	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PF_vs_NF	PGAM2	1.64511453187179	0.0165435315241013	-1.23374168936498	0.0122768488911773	False	True	disease_opposite_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PF_vs_NF	HIC1	-1.67604282438372	0.0165435315241013	2.37727417530684	1.56355516327791e-12	False	True	disease_opposite_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PF_vs_NF	CSGALNACT1	-2.01026664321072	0.0171043739925219	-1.60843636219538	2.7741589178648e-08	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PF_vs_NF	GUCY1A2	-1.9337334368287	0.0171043739925219	1.02803722734505	0.0020415989264049	False	True	disease_opposite_direction	endothelial_no_angiogenesis,smooth_muscle_contractility	True
+Mural	organic_ED_vs_normal	GSE146500	PF_vs_NF	MYOZ1	1.69411254534578	0.0171043739925219	6.88243292785902	7.5917846620387e-14	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PF_vs_NF	ZEB2	-1.17206030931234	0.0179338133352767	-0.319462123888449	0.0009328445785673	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PF_vs_NF	STEAP4	-2.39886172939268	0.0182580545991257	-5.31771293761311	1.47762321805761e-11	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PF_vs_NF	HGF	-2.05946193814704	0.0182580545991257	-7.06673925940636	2.40980656966962e-13	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PF_vs_NF	PTGS2	1.76751950117669	0.0182580545991257	1.14373191572084	1.38767212815524e-06	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PF_vs_NF	NEURL1B	-1.07690131879216	0.0182580545991257	-3.00927324212708	7.3820320594614505e-09	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PF_vs_NF	EMX2OS	-1.6976162074872	0.0245068472009816	-2.89518898698189	6.53813766461405e-10	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PF_vs_NF	PROS1	-1.39975587867716	0.0245068472009816	-2.01043701630594	3.08562610657701e-12	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PF_vs_NF	LSP1	-1.82648071651885	0.0245068472009816	-2.84900050725541	7.20981392887861e-10	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PF_vs_NF	NTN4	1.26495521911628	0.0245068472009816	-0.421910445871626	3.24961151938824e-06	False	True	disease_opposite_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PF_vs_NF	DAAM1	-1.81333945292011	0.0245068472009816	1.95624035772514	1.19665472027387e-13	False	True	disease_opposite_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PF_vs_NF	BTC	2.89258305835875	0.0247947195445298	-6.45905508426139	5.84897504329388e-08	False	True	disease_opposite_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PF_vs_NF	LYNX1	1.39867089631628	0.0254089181460855	0.362780192680368	0.0002251576646645	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PF_vs_NF	RHOD	1.46141498361701	0.0262094013361562	-1.73982125386259	2.88967306685772e-09	False	True	disease_opposite_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PF_vs_NF	MAMDC2	-1.36555543959322	0.0314235057359024	-0.366969698696962	0.0153394920797431	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PF_vs_NF	CYR61	2.16519819618929	0.0335932596756764	2.47533610862937	1.97459463885272e-14	True	False	disease_same_direction	immediate_early_stress,tgfb_wnt_hippo	True
+Mural	organic_ED_vs_normal	GSE146500	PF_vs_NF	SLC38A1	1.72789597994865	0.0363808157241242	1.18551927437026	8.46064391251079e-09	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PF_vs_NF	NCKAP5	-1.73504373496732	0.0375859396222189	-1.50683323223836	1.14908084977595e-09	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PF_vs_NF	DUSP5	3.52099276849004	0.0375859396222189	-0.41591978273737	0.000308414713961	False	True	disease_opposite_direction	immediate_early_stress	True
+Mural	organic_ED_vs_normal	GSE146500	PF_vs_NF	IGFBP5	-1.48314703942641	0.0412512815209784	1.06138925670564	4.989311619835631e-09	False	True	disease_opposite_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PF_vs_NF	PDLIM5	1.01218477549189	0.0412512815209784	0.54244452070993	0.0003553725501243	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PF_vs_NF	HSPB8	1.9276254606075	0.0412512815209784	-0.884301421128455	3.32015004828917e-08	False	True	disease_opposite_direction	immediate_early_stress	True
+Mural	organic_ED_vs_normal	GSE146500	PF_vs_NF	CLSTN2	-2.45398665319931	0.0412512815209784	-6.63985896425636	1.75043455676096e-15	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PF_vs_NF	SLC44A2	1.09476649766221	0.0412512815209784	0.946119590229965	3.68240679848791e-10	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PF_vs_NF	GBGT1	-1.72404096091694	0.0413678901063316	-1.41775183069027	8.65869754825867e-06	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PF_vs_NF	CADM1	-1.40066673244158	0.0448483430467299	-0.444445389983558	0.0014074619741142	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PF_vs_NF	PDGFRB	-0.947834118887109	0.0457913504244175	0.725728083443778	1.35334404770349e-07	False	True	disease_opposite_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PF_vs_NF	LDOC1	1.51268898214831	0.0457913504244175	-0.77734715740898	1.84289782207849e-07	False	True	disease_opposite_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PF_vs_NF	NRP1	-0.905688892226481	0.0457913504244175	-1.08729179657453	4.1741585469311596e-11	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PF_vs_NF	RALGPS2	-1.6151135766592	0.0457913504244175	-1.1180635101301	4.40164910991392e-08	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PF_vs_NF	CD44	-1.36778124096295	0.0476379047138343	-1.06931058875127	1.25187531209454e-09	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PF_vs_NF	KCNT2	-1.77460269335341	0.0476379047138343	1.63871317620855	1.05111281047309e-08	False	True	disease_opposite_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PF_vs_NF	CASC15	-1.35854210275601	0.0476379047138343	3.03650852547652	6.70738559725424e-08	False	True	disease_opposite_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PF_vs_NF	TMEM59L	1.60996422438265	0.0476379047138343	0.931994227146693	0.0009516880893255	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PF_vs_NF	MASP1	-2.10573985891868	0.0476379047138343	-3.29085247845944	4.51714680494384e-16	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PF_vs_NF	MYOM2	1.80639100962287	0.0476379047138343	-1.35882601639923	9.81653368309379e-05	False	True	disease_opposite_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PF_vs_NF	PLTP	-1.72086293271725	0.0476379047138343	-0.236189153477663	0.0295373157184046	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PF_vs_NF	FGF7	-1.62404365244033	0.0479554717661819	-0.472168106540607	6.9439162281744e-06	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PF_vs_NF	SH3RF1	-0.965472454493416	0.0479554717661819	1.97358726196597	1.8042840645881e-11	False	True	disease_opposite_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PF_vs_NF	PHLDB1	-1.01908499765298	0.0479554717661819	1.1743061799697	7.53717217400701e-13	False	True	disease_opposite_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PF_vs_NF	CYP1B1	-1.04484639953086	0.0486409711866157	-0.806041578144866	2.42561730861065e-07	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PF_vs_NF	ZNF395	-1.17775907532458	0.0486409711866157	-1.52903009328231	2.1315293160832002e-10	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PF_vs_NF	COL1A1	-1.8454805684873	0.0486409711866157	1.80132695185875	1.19901349718988e-14	False	True	disease_opposite_direction	ecm_fibrosis	True
+Mural	organic_ED_vs_normal	GSE146500	PF_vs_NF	ENTPD1	1.14829420919238	0.0489504772281682	0.376049165402025	0.0027416916028818	True	False	disease_same_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PF_vs_NF	KIAA1671	1.29381480312251	0.0489504772281682	-1.51170929851447	1.1421882340106701e-09	False	True	disease_opposite_direction		False
+Mural	organic_ED_vs_normal	GSE146500	PF_vs_NF	EPB41L4A-AS1	-0.856025971367938	0.0499672766572255	0.733299617865234	0.0001228336075587	False	True	disease_opposite_direction		False
+T_cell	diabetic_ED_vs_normal	GSE146500	PFPC_vs_NF	LMNA	2.55702833722339	0.0401197838214589	-1.52573942654576	5.36944534899686e-13	False	True	disease_opposite_direction		False
+T_cell	diabetic_ED_vs_normal	GSE146500	PFPC_vs_NF	HSPB8	3.25128899174706	0.0401197838214589	-0.59406368450199	3.52815060627971e-06	False	True	disease_opposite_direction	immediate_early_stress	True
+T_cell	diabetic_ED_vs_normal	GSE146500	PFPC_vs_PF	LMNA	2.55702833722339	0.0401197838214589	0.189022011409246	0.0484474567945013	True	False	treatment_matches_ED_direction		False
+T_cell	diabetic_ED_vs_normal	GSE146500	PFPC_vs_PF	HSPB8	3.25128899174706	0.0401197838214589	0.290237736626465	0.0363203260981405	True	False	treatment_matches_ED_direction	immediate_early_stress	True
+T_cell	diabetic_ED_vs_normal	GSE146500	PF_vs_NF	LMNA	2.55702833722339	0.0401197838214589	-1.714761437955	1.1403795137710299e-13	False	True	disease_opposite_direction		False
+T_cell	diabetic_ED_vs_normal	GSE146500	PF_vs_NF	HSPB8	3.25128899174706	0.0401197838214589	-0.884301421128455	3.32015004828917e-08	False	True	disease_opposite_direction	immediate_early_stress	True

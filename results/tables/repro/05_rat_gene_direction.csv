@@ -1,0 +1,7 @@
+human,rat,mean_logCPM_control,mean_logCPM_DMED,delta_DMEDminusCtrl,direction_up_in_DMED,block
+IL6,Il6,10.553,8.365,-2.188,False,gene_direction
+ADAMTS4,Adamts4,11.135,9.407,-1.728,False,gene_direction
+PLA2G2A,Pla2g2a,7.324,7.774,0.45,True,gene_direction
+CYR61,Ccn1,8.232,8.3,0.068,True,gene_direction
+PI15,Pi15,4.808,1.934,-2.874,False,gene_direction
+RGS16,Rgs16,10.815,8.899,-1.916,False,gene_direction

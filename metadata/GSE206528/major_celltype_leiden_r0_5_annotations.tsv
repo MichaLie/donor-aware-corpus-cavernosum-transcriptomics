@@ -1,0 +1,24 @@
+leiden_r0_5	major_cell_type	subtype_hint	evidence_markers	annotation_confidence	notes
+0	Endothelial	endothelial_CCL14_EMCN	CCL14,EMCN,MMRN1,CLEC14A,VWF	high	Canonical endothelial marker score and marker genes.
+1	Macrophage	macrophage_antigen_presenting	HLA-DRA,TYROBP,CD74,C1QA,C1QB,CTSS	high	Macrophage/myeloid cluster.
+2	Fibroblast	matrix_fibroblast	COL1A1,COL1A2,COL3A1,LUM,PCOLCE	high	Canonical fibroblast/ECM cluster.
+3	Endothelial	ACKR1_endothelial	ACKR1,AQP1,IFI27,ITM2A,CD74	medium	Endothelial score and vascular markers; HLA genes suggest activated/endothelial-immune interface.
+4	T_cell	cytotoxic_or_T_cell	PTPRC,IL32,CCL5,CD52,GZMA,CD2	high	T-cell/immune cluster.
+5	Fibroblast	matrix_fibroblast_APOD_DCN	APOD,DPT,MFAP4,FBLN1,DCN,LUM	high	Fibroblast/ECM cluster.
+6	Mural	pericyte_smooth_muscle_like	NOTCH3,MYL9,ACTA2,CALD1,IGFBP7	medium	Mural cluster with pericyte and smooth-muscle markers.
+7	Endothelial	VWF_PLAT_endothelial	VWF,PLAT,ADGRF5,MMRN1,CLEC14A,EMCN	high	Endothelial markers dominate.
+8	Mural	smooth_muscle_pericyte	RGS5,TAGLN,ACTA2,MYH11,MYL9,CALD1	high	Mural cluster, likely smooth muscle/pericyte continuum.
+9	Fibroblast	PTGDS_IGF1_fibroblast	PTGDS,IGF1,CFD,SERPINF1,LUM,DCN	high	Fibroblast marker score and stromal markers.
+10	Endothelial	PECAM1_CLDN5_endothelial	PECAM1,CLDN5,ICAM2,CAV1,RAMP2,EPAS1	high	Canonical endothelial cluster.
+11	Fibroblast	PI16_like_fibroblast	APOD,ABCA8,DCN,GPC3,PI16,OGN,LUM	high	Fibroblast/stromal cluster.
+12	Mural	smooth_muscle_pericyte	RGS5,MYH11,ACTA2,TAGLN,MYL9,MCAM	high	Mural cluster, likely smooth muscle/pericyte continuum.
+13	Smooth_muscle	contractile_smooth_muscle	DES,ACTG2,MYLK,MYH11,CNN1,ACTA2	high	Strong contractile smooth-muscle markers.
+14	Endothelial	VWF_PLAT_endothelial	VWF,PLAT,EGFL7,ADGRF5,SPARCL1	high	Endothelial markers dominate.
+15	Fibroblast	activated_matrix_fibroblast	TIMP3,GSN,APOD,COL6A3,MMP2,DCN,PDGFRA	high	Fibroblast marker score and ECM/remodeling markers.
+16	Schwann_neural	Schwann_or_neural	NRXN1,GPM6B,S100B,CDH19,PLP1,PMP22	high	Neural/Schwann marker cluster.
+17	Fibroblast	immediate_early_fibroblast	JUND,ZFP36,SOCS3,CYR61,FOSB,KLF9	low	Fibroblast score positive but immediate-early/stress genes dominate; low-confidence annotation.
+18	Endothelial	PLAT_CLEC14A_endothelial	PLAT,CLEC14A,ADGRF5,EMCN,EGFL7,PODXL	high	Endothelial markers dominate.
+19	Fibroblast	stress_or_IGFBP5_fibroblast	IGFBP5,IGF1,DNAJB1,HSP90AA1,HSPA1A,HSPA1B	low	Fibroblast score positive but heat-shock/stress genes dominate; low-confidence annotation.
+20	Fibroblast	matrix_remodeling_fibroblast	TIMP3,SERPINF1,HSD11B1,LGALS3,CFD,GSN	medium	Fibroblast/stromal cluster with remodeling markers.
+21	Endothelial	TM4SF1_APOLD1_endothelial	APOLD1,TM4SF1,ECSCR,CLU,CD9,EMP1	medium	Endothelial score positive; activated endothelial/stress-like markers.
+22	Endothelial	stress_or_activated_endothelial	APOLD1,THBD,TM4SF1,SOCS3,SLC2A3,KLF9	low	Endothelial-like but stress/activation genes dominate; low-confidence annotation.

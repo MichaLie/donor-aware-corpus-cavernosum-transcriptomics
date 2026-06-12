@@ -1,0 +1,17 @@
+donor_id	pseudobulk_id	ed_subgroup	n_cells	passes_primary_min_cell_threshold	mean_directional_reference_z	n_genes_scored	module_id	module_label	display_group
+DMED1	DMED1__Pericyte_like	diabetic_ED	177	True	6.400640261101554	12	candidate_directional_signature_12	12-gene directional score	Diabetic ED
+DMED2	DMED2__Pericyte_like	diabetic_ED	255	True	7.587647394283345	12	candidate_directional_signature_12	12-gene directional score	Diabetic ED
+ED1	ED1__Pericyte_like	non_diabetic_ED	76	True	6.999917275426392	12	candidate_directional_signature_12	12-gene directional score	Non-diabetic organic ED
+ED2	ED2__Pericyte_like	non_diabetic_ED	16	False	0.9658932509600159	12	candidate_directional_signature_12	12-gene directional score	Non-diabetic organic ED
+ED3	ED3__Pericyte_like	non_diabetic_ED	279	True	2.4668419904088412	12	candidate_directional_signature_12	12-gene directional score	Non-diabetic organic ED
+N1	N1__Pericyte_like	normal	203	True	-0.06114817349996362	12	candidate_directional_signature_12	12-gene directional score	Tumor-margin reference
+N2	N2__Pericyte_like	normal	106	True	0.5082010627073726	12	candidate_directional_signature_12	12-gene directional score	Tumor-margin reference
+N3	N3__Pericyte_like	normal	244	True	-0.4470528892074093	12	candidate_directional_signature_12	12-gene directional score	Tumor-margin reference
+DMED1	DMED1__Pericyte_like	diabetic_ED	177	True	7.316721499660929	5	candidate_inflammatory_remodeling_5	5-gene inflammatory-remodeling score	Diabetic ED
+DMED2	DMED2__Pericyte_like	diabetic_ED	255	True	9.182738247340328	5	candidate_inflammatory_remodeling_5	5-gene inflammatory-remodeling score	Diabetic ED
+ED1	ED1__Pericyte_like	non_diabetic_ED	76	True	10.76982158968871	5	candidate_inflammatory_remodeling_5	5-gene inflammatory-remodeling score	Non-diabetic organic ED
+ED2	ED2__Pericyte_like	non_diabetic_ED	16	False	1.7181479564773283	5	candidate_inflammatory_remodeling_5	5-gene inflammatory-remodeling score	Non-diabetic organic ED
+ED3	ED3__Pericyte_like	non_diabetic_ED	279	True	5.0494671202001165	5	candidate_inflammatory_remodeling_5	5-gene inflammatory-remodeling score	Non-diabetic organic ED
+N1	N1__Pericyte_like	normal	203	True	-0.527781276802684	5	candidate_inflammatory_remodeling_5	5-gene inflammatory-remodeling score	Tumor-margin reference
+N2	N2__Pericyte_like	normal	106	True	0.6227619713716315	5	candidate_inflammatory_remodeling_5	5-gene inflammatory-remodeling score	Tumor-margin reference
+N3	N3__Pericyte_like	normal	244	True	-0.0949806945689466	5	candidate_inflammatory_remodeling_5	5-gene inflammatory-remodeling score	Tumor-margin reference

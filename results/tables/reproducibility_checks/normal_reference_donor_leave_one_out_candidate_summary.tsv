@@ -1,0 +1,13 @@
+gene_symbol	full_logFC	full_FDR	n_runnable_normal_reference_omissions	min_lodo_logFC	max_lodo_logFC	max_lodo_FDR	same_direction_all_runnable	nominal_p_lt_0_05_all_runnable	fdr_lt_0_10_all_runnable	interpretation
+ADAMTS4	4.19494894732916	0.0035820474536285	3	4.14817828014521	4.23000487663387	0.0929568167493267	True	True	True	Direction preserved when each normal-reference donor is omitted; not independent replication.
+IL6	4.6866998230421	0.0035820474536285	3	4.20251135107439	5.70200617993171	0.0929568167493267	True	True	True	Direction preserved when each normal-reference donor is omitted; not independent replication.
+NR4A3	3.95583264539962	0.0035820474536285	3	3.76415365029095	4.4685235821809	0.0408851579626547	True	True	True	Direction preserved when each normal-reference donor is omitted; not independent replication.
+PI15	3.6853314227566	0.0054470020158132	3	3.50735241550283	3.80836414985165	0.0604613085685662	True	True	True	Direction preserved when each normal-reference donor is omitted; not independent replication.
+PLA2G2A	3.66087810935056	0.0080046491823832	3	3.17299966753804	4.02368506959921	0.04115345207434	True	True	True	Direction preserved when each normal-reference donor is omitted; not independent replication.
+SH3BP5	2.78686638617908	0.0133848419732999	3	2.61626529098545	3.19555249886417	0.163613903173512	True	True	False	Direction preserved when each normal-reference donor is omitted; not independent replication.
+MT1A	2.80556449196479	0.0215447647591949	3	2.48698629315243	3.44984295585126	0.187969594827126	True	True	False	Direction preserved when each normal-reference donor is omitted; not independent replication.
+NR4A2	3.19462318338481	0.0215447647591949	3	3.0601753515066	3.43429087713412	0.225139057745862	True	True	False	Direction preserved when each normal-reference donor is omitted; not independent replication.
+ERAP2	-3.63303730128362	0.0220113606267881	3	-3.79163237524909	-3.36872728788304	0.175621958914715	True	True	False	Direction preserved when each normal-reference donor is omitted; not independent replication.
+NR4A1	2.97628852226847	0.0220113606267881	3	2.74145224622408	3.6015840748784	0.20517172812818	True	True	False	Direction preserved when each normal-reference donor is omitted; not independent replication.
+CYR61	2.41411122597973	0.0351823510327688	3	2.13378592712435	2.86553855327545	0.31953677573754	True	True	False	Direction preserved when each normal-reference donor is omitted; not independent replication.
+RGS16	2.4128744373486	0.0488085296727281	3	2.28331828999723	2.56045802667742	0.31953677573754	True	True	False	Direction preserved when each normal-reference donor is omitted; not independent replication.

@@ -1,0 +1,45 @@
+cell_type	ed_comparison	dataset	peyronie_comparison	n_ed_genes	n_ed_genes_in_peyronie_universe	n_peyronie_FDR_0_05	n_overlap_peyronie_FDR_0_05	n_same_direction	n_opposite_direction	fisher_odds_ratio	fisher_p_value	fisher_FDR
+Mural	organic_ED_vs_normal	GSE146500	PF_vs_NF	75	62	11454	52	31	21	2.0591124364146642	0.01909349959002843	0.21002849549031272
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	75	62	11040	50	30	20	1.8679860479223536	0.029506293118627014	0.21637948286993144
+Fibroblast	non_diabetic_ED_vs_normal	GSE146500	PF_vs_NF	43	26	11454	22	5	17	2.175078726382085	0.1018676188856842	0.5602719038712631
+Mural	organic_ED_vs_normal	GSE146500	PFPC_vs_PF	75	62	1735	20	5	15	3.943356934610579	4.7559917978660095e-06	0.00020926363910610442
+Fibroblast	non_diabetic_ED_vs_normal	GSE146500	PFPC_vs_NF	43	26	11040	19	3	16	1.2146681011575304	0.42041485142233537	1.0
+Mural	diabetic_ED_vs_normal	GSE146500	PFPC_vs_NF	24	21	11040	17	9	8	1.9027261181166653	0.1743782362787527	0.6498195965935727
+Mural	diabetic_ED_vs_normal	GSE146500	PF_vs_NF	24	21	11454	17	9	8	1.6800078691964675	0.24797429664919507	0.7793477894688988
+Fibroblast	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	21	18	11040	15	6	9	2.238548752834467	0.14494036775755978	0.6498195965935727
+Fibroblast	organic_ED_vs_normal	GSE146500	PF_vs_NF	21	18	11454	14	6	8	1.383173076923077	0.3914589340775491	1.0
+Fibroblast	diabetic_ED_vs_normal	GSE146500	PFPC_vs_NF	10	10	11040	10	4	6	inf	0.024754111187375288	0.21637948286993144
+Fibroblast	diabetic_ED_vs_normal	GSE146500	PF_vs_NF	10	10	11454	9	4	5	3.5575360419397115	0.17722352634370164	0.6498195965935727
+Mural	organic_ED_vs_normal	GSE126005	PD_plaque_vs_control	75	75	1771	9	3	6	1.4101485914766279	0.21476593206847752	0.7269000777702316
+Mural	diabetic_ED_vs_normal	GSE146500	PFPC_vs_PF	24	21	1735	8	2	6	5.070954523183823	0.0010534876555594245	0.02317672842230734
+Fibroblast	organic_ED_vs_normal	GSE146500	PFPC_vs_PF	21	18	1735	5	2	3	3.163850600266785	0.0384964921844153	0.24197795087346763
+Mural	diabetic_ED_vs_normal	GSE126005	PD_plaque_vs_control	24	24	1771	4	3	1	2.067572156196944	0.1567719086560622	0.6498195965935727
+Fibroblast	non_diabetic_ED_vs_normal	GSE146500	PFPC_vs_PF	43	26	1735	4	2	2	1.493829105614201	0.3105526854856437	0.9109545440912216
+Fibroblast	non_diabetic_ED_vs_normal	GSE126005	PD_plaque_vs_control	43	38	1771	3	3	0	0.8848739495798319	0.6640888986265908	1.0
+T_cell	diabetic_ED_vs_normal	GSE146500	PFPC_vs_PF	4	2	1735	2	2	0	inf	0.011783561117357443	0.17282556305457583
+Fibroblast	organic_ED_vs_normal	GSE126005	PD_plaque_vs_control	21	20	1771	2	1	1	1.1474781734815653	0.5377421406888239	1.0
+T_cell	diabetic_ED_vs_normal	GSE146500	PFPC_vs_NF	4	2	11040	2	0	2	inf	0.47733886174345863	1.0
+T_cell	diabetic_ED_vs_normal	GSE146500	PF_vs_NF	4	2	11454	2	0	2	inf	0.5138122164988563	1.0
+Fibroblast	diabetic_ED_vs_normal	GSE146500	PFPC_vs_PF	10	10	1735	1	0	1	0.9121491733948481	0.6832806157731854	1.0
+Endothelial	diabetic_ED_vs_normal	GSE126005	PD_plaque_vs_control	1	1	1771	0	0	0	0.0	1.0	1.0
+Endothelial	diabetic_ED_vs_normal	GSE146500	PFPC_vs_NF	1	0	11040	0	0	0		1.0	1.0
+Endothelial	diabetic_ED_vs_normal	GSE146500	PFPC_vs_PF	1	0	1735	0	0	0		1.0	1.0
+Endothelial	diabetic_ED_vs_normal	GSE146500	PF_vs_NF	1	0	11454	0	0	0		1.0	1.0
+Endothelial	non_diabetic_ED_vs_normal	GSE126005	PD_plaque_vs_control	1	1	1771	0	0	0	0.0	1.0	1.0
+Endothelial	non_diabetic_ED_vs_normal	GSE146500	PFPC_vs_NF	1	0	11040	0	0	0		1.0	1.0
+Endothelial	non_diabetic_ED_vs_normal	GSE146500	PFPC_vs_PF	1	0	1735	0	0	0		1.0	1.0
+Endothelial	non_diabetic_ED_vs_normal	GSE146500	PF_vs_NF	1	0	11454	0	0	0		1.0	1.0
+Fibroblast	diabetic_ED_vs_normal	GSE126005	PD_plaque_vs_control	10	9	1771	0	0	0	0.0	1.0	1.0
+Macrophage	diabetic_ED_vs_normal	GSE126005	PD_plaque_vs_control	1	1	1771	0	0	0	0.0	1.0	1.0
+Macrophage	diabetic_ED_vs_normal	GSE146500	PFPC_vs_NF	1	0	11040	0	0	0		1.0	1.0
+Macrophage	diabetic_ED_vs_normal	GSE146500	PFPC_vs_PF	1	0	1735	0	0	0		1.0	1.0
+Macrophage	diabetic_ED_vs_normal	GSE146500	PF_vs_NF	1	0	11454	0	0	0		1.0	1.0
+Macrophage	non_diabetic_ED_vs_normal	GSE126005	PD_plaque_vs_control	1	1	1771	0	0	0	0.0	1.0	1.0
+Macrophage	non_diabetic_ED_vs_normal	GSE146500	PFPC_vs_NF	1	0	11040	0	0	0		1.0	1.0
+Macrophage	non_diabetic_ED_vs_normal	GSE146500	PFPC_vs_PF	1	0	1735	0	0	0		1.0	1.0
+Macrophage	non_diabetic_ED_vs_normal	GSE146500	PF_vs_NF	1	0	11454	0	0	0		1.0	1.0
+Macrophage	organic_ED_vs_normal	GSE126005	PD_plaque_vs_control	1	1	1771	0	0	0	0.0	1.0	1.0
+Macrophage	organic_ED_vs_normal	GSE146500	PFPC_vs_NF	1	0	11040	0	0	0		1.0	1.0
+Macrophage	organic_ED_vs_normal	GSE146500	PFPC_vs_PF	1	0	1735	0	0	0		1.0	1.0
+Macrophage	organic_ED_vs_normal	GSE146500	PF_vs_NF	1	0	11454	0	0	0		1.0	1.0
+T_cell	diabetic_ED_vs_normal	GSE126005	PD_plaque_vs_control	4	4	1771	0	0	0	0.0	1.0	1.0

@@ -1,0 +1,74 @@
+cell_type	comparison	leave_out_donor	runnable	group_summary	n_genes_tested	n_samples
+Endothelial	organic_ED_vs_normal	DMED1	TRUE	normal=3;organic_ED=4	14648	7
+Endothelial	organic_ED_vs_normal	DMED2	TRUE	normal=3;organic_ED=4	15108	7
+Endothelial	organic_ED_vs_normal	ED1	TRUE	normal=3;organic_ED=4	14636	7
+Endothelial	organic_ED_vs_normal	ED2	TRUE	normal=3;organic_ED=4	15116	7
+Endothelial	organic_ED_vs_normal	ED3	TRUE	normal=3;organic_ED=4	14515	7
+Endothelial	organic_ED_vs_normal	N1	TRUE	normal=2;organic_ED=5	15191	7
+Endothelial	organic_ED_vs_normal	N2	TRUE	normal=2;organic_ED=5	15642	7
+Endothelial	organic_ED_vs_normal	N3	TRUE	normal=2;organic_ED=5	15525	7
+Fibroblast	organic_ED_vs_normal	DMED1	TRUE	normal=3;organic_ED=4	15567	7
+Fibroblast	organic_ED_vs_normal	DMED2	TRUE	normal=3;organic_ED=4	15568	7
+Fibroblast	organic_ED_vs_normal	ED1	TRUE	normal=3;organic_ED=4	15600	7
+Fibroblast	organic_ED_vs_normal	ED2	TRUE	normal=3;organic_ED=4	15509	7
+Fibroblast	organic_ED_vs_normal	ED3	TRUE	normal=3;organic_ED=4	15424	7
+Fibroblast	organic_ED_vs_normal	N1	TRUE	normal=2;organic_ED=5	16112	7
+Fibroblast	organic_ED_vs_normal	N2	TRUE	normal=2;organic_ED=5	16024	7
+Fibroblast	organic_ED_vs_normal	N3	TRUE	normal=2;organic_ED=5	15991	7
+Macrophage	organic_ED_vs_normal	DMED1	TRUE	normal=3;organic_ED=3	10032	6
+Macrophage	organic_ED_vs_normal	DMED2	TRUE	normal=3;organic_ED=3	9603	6
+Macrophage	organic_ED_vs_normal	ED1	TRUE	normal=3;organic_ED=3	10192	6
+Macrophage	organic_ED_vs_normal	ED3	TRUE	normal=3;organic_ED=3	10008	6
+Macrophage	organic_ED_vs_normal	N1	TRUE	normal=2;organic_ED=4	10310	6
+Macrophage	organic_ED_vs_normal	N2	TRUE	normal=2;organic_ED=4	10751	6
+Macrophage	organic_ED_vs_normal	N3	TRUE	normal=2;organic_ED=4	10240	6
+Mural	organic_ED_vs_normal	DMED1	TRUE	normal=3;organic_ED=4	10286	7
+Mural	organic_ED_vs_normal	DMED2	TRUE	normal=3;organic_ED=4	10326	7
+Mural	organic_ED_vs_normal	ED1	TRUE	normal=3;organic_ED=4	10281	7
+Mural	organic_ED_vs_normal	ED2	TRUE	normal=3;organic_ED=4	10594	7
+Mural	organic_ED_vs_normal	ED3	TRUE	normal=3;organic_ED=4	10191	7
+Mural	organic_ED_vs_normal	N1	TRUE	normal=2;organic_ED=5	11110	7
+Mural	organic_ED_vs_normal	N2	TRUE	normal=2;organic_ED=5	11055	7
+Mural	organic_ED_vs_normal	N3	TRUE	normal=2;organic_ED=5	11004	7
+Endothelial	non_diabetic_ED_vs_normal	ED1	TRUE	normal=3;non_diabetic_ED=2	14858	5
+Endothelial	non_diabetic_ED_vs_normal	ED2	TRUE	normal=3;non_diabetic_ED=2	15320	5
+Endothelial	non_diabetic_ED_vs_normal	ED3	TRUE	normal=3;non_diabetic_ED=2	14709	5
+Endothelial	non_diabetic_ED_vs_normal	N1	TRUE	normal=2;non_diabetic_ED=3	14921	5
+Endothelial	non_diabetic_ED_vs_normal	N2	TRUE	normal=2;non_diabetic_ED=3	15374	5
+Endothelial	non_diabetic_ED_vs_normal	N3	TRUE	normal=2;non_diabetic_ED=3	15228	5
+Fibroblast	non_diabetic_ED_vs_normal	ED1	TRUE	normal=3;non_diabetic_ED=2	16109	5
+Fibroblast	non_diabetic_ED_vs_normal	ED2	TRUE	normal=3;non_diabetic_ED=2	15979	5
+Fibroblast	non_diabetic_ED_vs_normal	ED3	TRUE	normal=3;non_diabetic_ED=2	15306	5
+Fibroblast	non_diabetic_ED_vs_normal	N1	TRUE	normal=2;non_diabetic_ED=3	16136	5
+Fibroblast	non_diabetic_ED_vs_normal	N2	TRUE	normal=2;non_diabetic_ED=3	15420	5
+Fibroblast	non_diabetic_ED_vs_normal	N3	TRUE	normal=2;non_diabetic_ED=3	15375	5
+Macrophage	non_diabetic_ED_vs_normal	ED1	FALSE	normal=3;non_diabetic_ED=1		
+Macrophage	non_diabetic_ED_vs_normal	ED3	FALSE	normal=3;non_diabetic_ED=1		
+Macrophage	non_diabetic_ED_vs_normal	N1	TRUE	normal=2;non_diabetic_ED=2	9361	4
+Macrophage	non_diabetic_ED_vs_normal	N2	TRUE	normal=2;non_diabetic_ED=2	10278	4
+Macrophage	non_diabetic_ED_vs_normal	N3	TRUE	normal=2;non_diabetic_ED=2	9277	4
+Endothelial	diabetic_ED_vs_normal	DMED1	FALSE	normal=3;diabetic_ED=1		
+Endothelial	diabetic_ED_vs_normal	DMED2	FALSE	normal=3;diabetic_ED=1		
+Endothelial	diabetic_ED_vs_normal	N1	TRUE	normal=2;diabetic_ED=2	14497	4
+Endothelial	diabetic_ED_vs_normal	N2	TRUE	normal=2;diabetic_ED=2	15259	4
+Endothelial	diabetic_ED_vs_normal	N3	TRUE	normal=2;diabetic_ED=2	15185	4
+Fibroblast	diabetic_ED_vs_normal	DMED1	FALSE	normal=3;diabetic_ED=1		
+Fibroblast	diabetic_ED_vs_normal	DMED2	FALSE	normal=3;diabetic_ED=1		
+Fibroblast	diabetic_ED_vs_normal	N1	TRUE	normal=2;diabetic_ED=2	15544	4
+Fibroblast	diabetic_ED_vs_normal	N2	TRUE	normal=2;diabetic_ED=2	15376	4
+Fibroblast	diabetic_ED_vs_normal	N3	TRUE	normal=2;diabetic_ED=2	15292	4
+Macrophage	diabetic_ED_vs_normal	DMED1	FALSE	normal=3;diabetic_ED=1		
+Macrophage	diabetic_ED_vs_normal	DMED2	FALSE	normal=3;diabetic_ED=1		
+Macrophage	diabetic_ED_vs_normal	N1	TRUE	normal=2;diabetic_ED=2	10585	4
+Macrophage	diabetic_ED_vs_normal	N2	TRUE	normal=2;diabetic_ED=2	10860	4
+Macrophage	diabetic_ED_vs_normal	N3	TRUE	normal=2;diabetic_ED=2	10140	4
+Mural	diabetic_ED_vs_normal	DMED1	FALSE	normal=3;diabetic_ED=1		
+Mural	diabetic_ED_vs_normal	DMED2	FALSE	normal=3;diabetic_ED=1		
+Mural	diabetic_ED_vs_normal	N1	TRUE	normal=2;diabetic_ED=2	12292	4
+Mural	diabetic_ED_vs_normal	N2	TRUE	normal=2;diabetic_ED=2	12161	4
+Mural	diabetic_ED_vs_normal	N3	TRUE	normal=2;diabetic_ED=2	12059	4
+T_cell	diabetic_ED_vs_normal	DMED1	FALSE	normal=3;diabetic_ED=1		
+T_cell	diabetic_ED_vs_normal	DMED2	FALSE	normal=3;diabetic_ED=1		
+T_cell	diabetic_ED_vs_normal	N1	TRUE	normal=2;diabetic_ED=2	9010	4
+T_cell	diabetic_ED_vs_normal	N2	TRUE	normal=2;diabetic_ED=2	8348	4
+T_cell	diabetic_ED_vs_normal	N3	TRUE	normal=2;diabetic_ED=2	7246	4

@@ -1,0 +1,15 @@
+item	status	location	note
+GEO accessions named	Complete	Methods; metadata/dataset_registry.tsv	GSE206528, GSE126005, and GSE146500 are named.
+Sample/donor mapping	Complete	metadata/GSE206528/samples.tsv; Methods	Donor IDs, ED subgroup, diabetes status, and tissue-source note are recorded.
+Biological replicate definition	Complete	Methods	Donor-level pseudobulk profiles are the discovery biological replicates.
+Raw-count usage	Complete	Methods; data/processed/GSE206528/pseudobulk_*	Raw counts were retained for pseudobulk edgeR modeling.
+QC/filtering	Complete	Methods; results/tables/*qc*.tsv	Exploratory gene/cell filtering and minimum pseudobulk cell thresholds are reported.
+Clustering/annotation parameters	Complete	Methods; metadata/GSE206528/*annotations.tsv	Leiden r0.5 and marker-based major/refined mural labels are documented.
+Pseudobulk aggregation rule	Complete	Methods	One profile per donor x major cell type or donor x refined mural subtype.
+Minimum-cell threshold	Complete	Methods	Formal testing required at least 50 cells per donor-compartment profile.
+Statistical model	Complete	Methods	edgeR quasi-likelihood negative-binomial models with TMM normalization and robust empirical Bayes moderation.
+Covariates not included	Complete	Methods; Discussion	No covariates were added because donor number and clinical metadata were limited.
+Multiple-testing family	Complete	Complete all-tests table	BH FDR family is listed for every edgeR result table.
+Leave-one-out runnability	Complete	Supplementary normal-reference leave-one-out table	Diabetic-donor omission is explicitly marked as not runnable for the key contrast.
+Permutation sanity check	Complete	Supplementary exact permutation table	All ten possible 2-vs-3 labels among the five donor profiles are listed.
+Diabetic vs non-diabetic descriptive check	Complete	Supplementary descriptive 12-gene score table	Normal, non-diabetic ED, and diabetic ED pericyte-like profiles are shown; ED2 is flagged below threshold.

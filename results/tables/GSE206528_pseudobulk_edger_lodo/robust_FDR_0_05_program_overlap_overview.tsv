@@ -1,0 +1,29 @@
+cell_type	comparison	program_id	program_label	program_family	n_genes	up_genes	down_genes
+Endothelial	diabetic_ED_vs_normal	inflammation_antigen_presentation	Inflammation and antigen presentation	immune	1		HLA-DQA2
+Endothelial	non_diabetic_ED_vs_normal	endothelial_no_angiogenesis	Endothelial, NO/cGMP, and angiogenesis	vascular	1	CA4	
+Fibroblast	diabetic_ED_vs_normal	diabetes_age_metabolic	Diabetes/AGE and metabolic remodeling	metabolism	3	AREG,FILIP1L	ERAP2
+Fibroblast	diabetic_ED_vs_normal	immediate_early_stress	Immediate-early, AP-1, and stress response	stress	3	DUSP8,NR4A2,NR4A3	
+Fibroblast	non_diabetic_ED_vs_normal	ecm_fibrosis	ECM and fibrosis	remodeling	3	ADAMTS1,COL4A5,COL4A6	
+Fibroblast	non_diabetic_ED_vs_normal	immediate_early_stress	Immediate-early, AP-1, and stress response	stress	3	DUSP5,DUSP8,NR4A2	
+Fibroblast	non_diabetic_ED_vs_normal	smooth_muscle_contractility	Smooth-muscle contractility and relaxation	contractility	2	ATP1A2,PDE3B	
+Fibroblast	non_diabetic_ED_vs_normal	diabetes_age_metabolic	Diabetes/AGE and metabolic remodeling	metabolism	1	PDK4	
+Fibroblast	non_diabetic_ED_vs_normal	endothelial_no_angiogenesis	Endothelial, NO/cGMP, and angiogenesis	vascular	1	EFNB2	
+Fibroblast	non_diabetic_ED_vs_normal	hypoxia_oxidative_metabolism	Hypoxia, oxidative stress, and metabolic shift	metabolism	1	PDK4	
+Fibroblast	organic_ED_vs_normal	immediate_early_stress	Immediate-early, AP-1, and stress response	stress	4	DUSP5,DUSP8,NR4A1,NR4A2	
+Fibroblast	organic_ED_vs_normal	ecm_fibrosis	ECM and fibrosis	remodeling	1	ADAMTS1	
+Fibroblast	organic_ED_vs_normal	tgfb_wnt_hippo	TGF-beta, Wnt, and Hippo signaling	mechanotransduction	1		GREM1
+Macrophage	diabetic_ED_vs_normal	inflammation_antigen_presentation	Inflammation and antigen presentation	immune	1		HLA-DQA2
+Macrophage	non_diabetic_ED_vs_normal	inflammation_antigen_presentation	Inflammation and antigen presentation	immune	1		HLA-DQA2
+Macrophage	organic_ED_vs_normal	inflammation_antigen_presentation	Inflammation and antigen presentation	immune	1		HLA-DQA2
+Mural	diabetic_ED_vs_normal	immediate_early_stress	Immediate-early, AP-1, and stress response	stress	3	DUSP5,HSPB8,NR4A3	
+Mural	diabetic_ED_vs_normal	smooth_muscle_contractility	Smooth-muscle contractility and relaxation	contractility	2		ABCC9,GUCY1A2
+Mural	diabetic_ED_vs_normal	diabetes_age_metabolic	Diabetes/AGE and metabolic remodeling	metabolism	1		ERAP2
+Mural	diabetic_ED_vs_normal	ecm_fibrosis	ECM and fibrosis	remodeling	1	THBS1	
+Mural	diabetic_ED_vs_normal	endothelial_no_angiogenesis	Endothelial, NO/cGMP, and angiogenesis	vascular	1		GUCY1A2
+Mural	organic_ED_vs_normal	immediate_early_stress	Immediate-early, AP-1, and stress response	stress	3	CYR61,DUSP5,HSPB8	
+Mural	organic_ED_vs_normal	smooth_muscle_contractility	Smooth-muscle contractility and relaxation	contractility	2	KCNMB1	GUCY1A2
+Mural	organic_ED_vs_normal	ecm_fibrosis	ECM and fibrosis	remodeling	1		COL1A1
+Mural	organic_ED_vs_normal	endothelial_no_angiogenesis	Endothelial, NO/cGMP, and angiogenesis	vascular	1		GUCY1A2
+Mural	organic_ED_vs_normal	tgfb_wnt_hippo	TGF-beta, Wnt, and Hippo signaling	mechanotransduction	1	CYR61	
+T_cell	diabetic_ED_vs_normal	immediate_early_stress	Immediate-early, AP-1, and stress response	stress	1	HSPB8	
+T_cell	diabetic_ED_vs_normal	inflammation_antigen_presentation	Inflammation and antigen presentation	immune	1		HLA-DQA2

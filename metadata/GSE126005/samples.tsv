@@ -1,0 +1,13 @@
+sample_id	sample_title	group	group_label	dataset	tissue	modality	raw_count_column
+GSM3587848	Seq4@S1	peyronies_plaque	Peyronie's plaque	GSE126005	tunica_albuginea	bulk_RNA_seq	Seq4@S1
+GSM3587849	Seq8@1@S2	peyronies_plaque	Peyronie's plaque	GSE126005	tunica_albuginea	bulk_RNA_seq	Seq8@1@S2
+GSM3587850	s1@S3	peyronies_plaque	Peyronie's plaque	GSE126005	tunica_albuginea	bulk_RNA_seq	s1@S3
+GSM3587851	s7@S4	peyronies_plaque	Peyronie's plaque	GSE126005	tunica_albuginea	bulk_RNA_seq	s7@S4
+GSM3587852	s16@S7	peyronies_plaque	Peyronie's plaque	GSE126005	tunica_albuginea	bulk_RNA_seq	s16@S7
+GSM3587853	Seq27@S12	peyronies_plaque	Peyronie's plaque	GSE126005	tunica_albuginea	bulk_RNA_seq	Seq27@S12
+GSM3587854	s12@S5	normal_control	Control tunica albuginea	GSE126005	tunica_albuginea	bulk_RNA_seq	s12@S5
+GSM3587855	s14@S6	normal_control	Control tunica albuginea	GSE126005	tunica_albuginea	bulk_RNA_seq	s14@S6
+GSM3587856	Seq21@2@S8	normal_control	Control tunica albuginea	GSE126005	tunica_albuginea	bulk_RNA_seq	Seq21@2@S8
+GSM3587857	Seq22@2@S9	normal_control	Control tunica albuginea	GSE126005	tunica_albuginea	bulk_RNA_seq	Seq22@2@S9
+GSM3587858	Seq24@2@S10	normal_control	Control tunica albuginea	GSE126005	tunica_albuginea	bulk_RNA_seq	Seq24@2@S10
+GSM3587859	Seq26@2@S11	normal_control	Control tunica albuginea	GSE126005	tunica_albuginea	bulk_RNA_seq	Seq26@2@S11

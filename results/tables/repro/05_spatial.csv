@@ -1,0 +1,37 @@
+level,n_spots,approach,core,reference,spearman_rho,spearman_p,pearson_r,pearson_p,stat,conclusion,mean_hi,mean_lo,perivasc_cluster_margin
+L7,15857,(a) simple spot correlation,sc_core_signed,perivascular(mural+EC),0.0553,3.20e-12,0.021,8.18e-03,0.0553,anti/none,,,
+L7,15857,(a) simple spot correlation,sc_core_signed,mural,-0.0057,4.71e-01,0.0091,2.51e-01,-0.0057,anti/none,,,
+L7,15857,(a) simple spot correlation,sc_core_signed,endothelial,0.0592,8.83e-14,0.0095,2.31e-01,0.0592,anti/none,,,
+L7,15857,(a) simple spot correlation,sc_core_up,perivascular(mural+EC),-0.0047,5.56e-01,0.0155,5.16e-02,-0.0047,anti/none,,,
+L7,15857,(a) simple spot correlation,sc_core_up,mural,-0.0475,2.24e-09,-0.0178,2.50e-02,-0.0475,anti/none,,,
+L7,15857,(a) simple spot correlation,sc_core_up,endothelial,0.0431,5.50e-08,0.0372,2.77e-06,0.0431,anti/none,,,
+L7,15857,(b) enrichment: core in perivasc-rich(top25%) vs rest,sc_core_signed,perivascular(mural+EC) top quartile,,,,8.31e-01,-0.0101,anti/none,-0.0067,0.0022,
+L7,15857,(b) enrichment: core in perivasc-rich(top25%) vs rest,sc_core_up,perivascular(mural+EC) top quartile,,,,1.00e+00,-0.0522,anti/none,0.3,0.329,
+L7,15857,(b2) deconv-by-cluster: core in most-perivasc Leiden cl3 vs rest,sc_core_signed,perivasc Leiden cluster 3 (n=7588),,,,1.00e+00,-0.1734,anti/none,-0.057,0.0523,0.0484
+L7,15857,(b2) deconv-by-cluster: core in most-perivasc Leiden cl3 vs rest,sc_core_up,perivasc Leiden cluster 3 (n=7588),,,,1.00e+00,-0.2028,anti/none,0.2653,0.3736,0.0484
+L7,15857,(c) NNLS deconv (Tangram-analog): core vs perivasc cell-type proportion,sc_core_signed,Pericyte+SMC+EC NNLS proportion,-0.0734,2.06e-20,-0.0175,2.75e-02,-0.0734,anti/none,,,
+L7,15857,(c) NNLS deconv (Tangram-analog): core vs perivasc cell-type proportion,sc_core_up,Pericyte+SMC+EC NNLS proportion,-0.1237,4.50e-55,-0.0927,1.27e-31,-0.1237,anti/none,,,
+L13,4878,(a) simple spot correlation,sc_core_signed,perivascular(mural+EC),0.0963,1.62e-11,0.0592,3.51e-05,0.0963,anti/none,,,
+L13,4878,(a) simple spot correlation,sc_core_signed,mural,0.0329,2.17e-02,0.0388,6.79e-03,0.0329,anti/none,,,
+L13,4878,(a) simple spot correlation,sc_core_signed,endothelial,0.0921,1.18e-10,0.0218,1.29e-01,0.0921,anti/none,,,
+L13,4878,(a) simple spot correlation,sc_core_up,perivascular(mural+EC),0.0153,2.86e-01,0.1109,7.80e-15,0.0153,anti/none,,,
+L13,4878,(a) simple spot correlation,sc_core_up,mural,-0.0497,5.14e-04,0.058,4.99e-05,-0.0497,anti/none,,,
+L13,4878,(a) simple spot correlation,sc_core_up,endothelial,0.0874,9.88e-10,0.0828,6.99e-09,0.0874,anti/none,,,
+L13,4878,(b) enrichment: core in perivasc-rich(top25%) vs rest,sc_core_signed,perivascular(mural+EC) top quartile,,,,4.69e-01,0.0015,anti/none,-0.0072,0.0024,
+L13,4878,(b) enrichment: core in perivasc-rich(top25%) vs rest,sc_core_up,perivascular(mural+EC) top quartile,,,,1.00e+00,-0.0691,anti/none,0.343,0.3641,
+L13,4878,(b2) deconv-by-cluster: core in most-perivasc Leiden cl0 vs rest,sc_core_signed,perivasc Leiden cluster 0 (n=3415),,,,1.72e-62,0.3002,perivascular-enriched (FRAGILE: tiny cluster margin),0.0705,-0.1646,0.084
+L13,4878,(b2) deconv-by-cluster: core in most-perivasc Leiden cl0 vs rest,sc_core_up,perivasc Leiden cluster 0 (n=3415),,,,9.37e-24,0.1801,perivascular-enriched (FRAGILE: tiny cluster margin),0.3871,0.2927,0.084
+L13,4878,(c) NNLS deconv (Tangram-analog): core vs perivasc cell-type proportion,sc_core_signed,Pericyte+SMC+EC NNLS proportion,-0.0251,7.93e-02,0.0185,1.97e-01,-0.0251,anti/none,,,
+L13,4878,(c) NNLS deconv (Tangram-analog): core vs perivasc cell-type proportion,sc_core_up,Pericyte+SMC+EC NNLS proportion,-0.1536,3.97e-27,-0.0475,9.11e-04,-0.1536,anti/none,,,
+L6,21332,(a) simple spot correlation,sc_core_signed,perivascular(mural+EC),0.0352,2.66e-07,0.0069,3.14e-01,0.0352,anti/none,,,
+L6,21332,(a) simple spot correlation,sc_core_signed,mural,-0.0152,2.66e-02,-0.006,3.83e-01,-0.0152,anti/none,,,
+L6,21332,(a) simple spot correlation,sc_core_signed,endothelial,0.061,4.84e-19,0.0186,6.46e-03,0.061,anti/none,,,
+L6,21332,(a) simple spot correlation,sc_core_up,perivascular(mural+EC),-0.0169,1.38e-02,0.0001,9.85e-01,-0.0169,anti/none,,,
+L6,21332,(a) simple spot correlation,sc_core_up,mural,-0.0514,5.75e-14,-0.0304,8.70e-06,-0.0514,anti/none,,,
+L6,21332,(a) simple spot correlation,sc_core_up,endothelial,0.0485,1.41e-12,0.0457,2.44e-11,0.0485,anti/none,,,
+L6,21332,(b) enrichment: core in perivasc-rich(top25%) vs rest,sc_core_signed,perivascular(mural+EC) top quartile,,,,9.45e-01,-0.0145,anti/none,-0.019,0.0063,
+L6,21332,(b) enrichment: core in perivasc-rich(top25%) vs rest,sc_core_up,perivascular(mural+EC) top quartile,,,,1.00e+00,-0.0513,anti/none,0.2834,0.3107,
+L6,21332,(b2) deconv-by-cluster: core in most-perivasc Leiden cl1 vs rest,sc_core_signed,perivasc Leiden cluster 1 (n=8582),,,,1.63e-282,0.2883,perivascular-enriched (FRAGILE: tiny cluster margin),0.1024,-0.0689,0.0286
+L6,21332,(b2) deconv-by-cluster: core in most-perivasc Leiden cl1 vs rest,sc_core_up,perivasc Leiden cluster 1 (n=8582),,,,4.59e-183,0.2324,perivascular-enriched (FRAGILE: tiny cluster margin),0.3857,0.2487,0.0286
+L6,21332,(c) NNLS deconv (Tangram-analog): core vs perivasc cell-type proportion,sc_core_signed,Pericyte+SMC+EC NNLS proportion,-0.105,2.36e-53,-0.0429,3.70e-10,-0.105,anti/none,,,
+L6,21332,(c) NNLS deconv (Tangram-analog): core vs perivasc cell-type proportion,sc_core_up,Pericyte+SMC+EC NNLS proportion,-0.1338,7.79e-86,-0.1212,1.24e-70,-0.1338,anti/none,,,

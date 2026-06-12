@@ -1,0 +1,13 @@
+cell_type	comparison	n_candidates	n_gene_tested_all_lodo	n_stable_tested_direction_all_lodo	n_stable_direction_all_lodo	n_stable_direction_min_80pct	n_retained_nominal_signal_any_lodo	median_fraction_same_direction
+Endothelial	diabetic_ED_vs_normal	1	1	1	1	1	1	1
+Endothelial	non_diabetic_ED_vs_normal	1	1	1	1	1	1	1
+Endothelial	organic_ED_vs_normal	26	26	26	26	26	26	1
+Fibroblast	diabetic_ED_vs_normal	18	18	18	18	18	18	1
+Fibroblast	non_diabetic_ED_vs_normal	177	177	177	177	177	177	1
+Fibroblast	organic_ED_vs_normal	92	92	92	92	92	92	1
+Macrophage	diabetic_ED_vs_normal	1	1	1	1	1	1	1
+Macrophage	non_diabetic_ED_vs_normal	1	1	1	1	1	1	1
+Macrophage	organic_ED_vs_normal	1	1	1	1	1	1	1
+Mural	diabetic_ED_vs_normal	95	95	95	95	95	95	1
+Mural	organic_ED_vs_normal	173	171	171	171	171	173	1
+T_cell	diabetic_ED_vs_normal	13	11	11	11	11	13	1

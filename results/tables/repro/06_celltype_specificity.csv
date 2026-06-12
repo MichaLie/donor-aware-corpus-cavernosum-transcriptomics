@@ -1,0 +1,9 @@
+cell_type,n_cells,n_dia_cells,n_non_cells,SH3BP5_diabVSnon,ERAP2_diabVSnon,axis_diabVSnon,sharedED_diabVSnon
+Pericyte_like,1356,432,371,0.398,-0.153,0.829,0.003
+Other_mural,4531,2049,2188,0.14,-0.058,0.3,0.055
+Smooth_muscle,3418,2878,181,0.145,-0.164,0.529,0.055
+Endothelial,24114,6674,7683,-0.059,-0.384,0.73,0.037
+Fibroblast,27593,6254,8474,0.099,-0.422,1.012,-0.21
+Macrophage,1907,679,375,-0.11,-0.26,0.405,-0.039
+T_cell,1941,501,571,0.003,-0.351,0.742,-0.004
+Schwann_neural,133,16,95,-0.053,-0.203,0.358,-0.259

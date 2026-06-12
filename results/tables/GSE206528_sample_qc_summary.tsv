@@ -1,0 +1,9 @@
+geo_accession	sample_title	donor_id	primary_group	ed_subgroup	diabetes_status	matrix_file	n_gene_rows	n_cells	median_total_counts	median_n_genes_by_counts	median_pct_mt	cells_pct_mt_gt_20	cells_total_counts_lt_500	cells_n_genes_lt_200
+GSM6255907	Normal_1	N1	normal	normal	no	GSM6255907_Normal_1_gene_martix.csv.gz	33694	8357	6374.0	2226.0	4.338106458824241	0	0	0
+GSM6255908	Normal_2	N2	normal	normal	no	GSM6255908_Normal_2_gene_matrix.csv.gz	33694	5571	8029.0	2886.0	2.228163992869875	0	0	0
+GSM6255909	Normal_3	N3	normal	normal	no	GSM6255909_Normal_3_gene_matrix.csv.gz	33694	11644	5470.0	2190.5	3.642307774510792	0	0	0
+GSM6255910	non-DM_1	ED1	organic_ED	non_diabetic_ED	no	GSM6255910_non-DM1_gene_matrix.csv.gz	33694	5906	7780.0	2587.5	0.9354326477939447	0	0	0
+GSM6255911	non-DM_2	ED2	organic_ED	non_diabetic_ED	no	GSM6255911_non-DM2_gene_matrix.csv.gz	33694	2853	10137.0	3313.0	2.0552799433026223	0	0	0
+GSM6255912	non-DM_3	ED3	organic_ED	non_diabetic_ED	no	GSM6255912_non-DM3_gene_matrix.csv.gz	33694	11179	5869.0	2349.0	1.64676076728194	0	0	0
+GSM6255913	Diabetes_1	DMED1	organic_ED	diabetic_ED	yes	GSM6255913_Diabetes_1_gene_matrix.csv.gz	33694	9058	7164.0	2555.0	1.1960784274989862	0	0	0
+GSM6255914	Diabetes_2	DMED2	organic_ED	diabetic_ED	yes	GSM6255914_Diabetes_2_gene_martix.csv.gz	33694	10425	6371.0	2343.0	3.302873499944952	0	0	0

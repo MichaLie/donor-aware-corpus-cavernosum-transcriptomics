@@ -1,0 +1,6 @@
+score,true_pair_rank,exact_one_sided_p,stat
+diabetes-associated (SH3BP5 - ERAP2),1/10,0.1,3.359
+SH3BP5 (up),1/10,0.1,1.726
+ERAP2 (down),1/10,0.1,1.633
+shared-ED control (IL6/ADAMTS4/PLA2G2A/CYR61/PI15),3/10,0.3,0.557
+full 12-gene directional,2/10,0.2,10.621

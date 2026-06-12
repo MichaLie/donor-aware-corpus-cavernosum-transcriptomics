@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite this archived repository record and the source datasets relevant to your reuse."
+title: "Donor-aware corpus cavernosum transcriptomics reanalysis in erectile dysfunction and diabetes"
+abstract: "Code, compact processed inputs, metadata, result tables, selected figures, and reproducibility documentation for a donor-aware reanalysis of public corpus cavernosum transcriptomics datasets in erectile dysfunction and diabetes."
+authors:
+  - family-names: "Liegertova"
+    given-names: "Michaela"
+  - family-names: "Broul"
+    given-names: "Marek"
+date-released: "2026-06-12"
+version: "v2.0.0"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/MichaLie/donor-aware-corpus-cavernosum-transcriptomics"
+url: "https://github.com/MichaLie/donor-aware-corpus-cavernosum-transcriptomics"

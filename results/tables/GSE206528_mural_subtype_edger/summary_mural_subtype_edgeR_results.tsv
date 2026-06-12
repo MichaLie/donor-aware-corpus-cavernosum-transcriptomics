@@ -1,0 +1,9 @@
+mural_subtype	comparison	genes_tested	n_samples	group_summary	n_FDR_0_05	n_FDR_0_10	n_abs_logFC_1_FDR_0_05
+CC_SMC_like	organic_ED_vs_normal	10427	5	normal=2;organic_ED=3	0	0	0
+CC_SMC_like	diabetic_ED_vs_normal	11697	4	normal=2;diabetic_ED=2	0	0	0
+Pericyte_like	organic_ED_vs_normal	8195	7	normal=3;organic_ED=4	2	2	2
+Pericyte_like	non_diabetic_ED_vs_normal	8549	5	normal=3;non_diabetic_ED=2	0	3	0
+Pericyte_like	diabetic_ED_vs_normal	8384	5	normal=3;diabetic_ED=2	12	21	12
+Vessel_SMC_like	organic_ED_vs_normal	9476	8	normal=3;organic_ED=5	0	0	0
+Vessel_SMC_like	non_diabetic_ED_vs_normal	7946	6	normal=3;non_diabetic_ED=3	0	0	0
+Vessel_SMC_like	diabetic_ED_vs_normal	8355	5	normal=3;diabetic_ED=2	1	2	1

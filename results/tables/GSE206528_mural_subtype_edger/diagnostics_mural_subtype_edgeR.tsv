@@ -1,0 +1,4 @@
+mural_subtype	pseudobulks_total	pseudobulks_passing_min_cells	donors_passing	min_cells	max_cells
+CC_SMC_like	8	5	DMED1,DMED2,ED3,N1,N3	56	2284
+Pericyte_like	8	7	DMED1,DMED2,ED1,ED3,N1,N2,N3	76	279
+Vessel_SMC_like	8	8	DMED1,DMED2,ED1,ED2,ED3,N1,N2,N3	53	1992

@@ -1,0 +1,7 @@
+module_id	module_label	ed_subgroup	display_group	n_donor_profiles	n_profiles_passing_primary_min_cell_threshold	mean_score	median_score	min_score	max_score
+candidate_directional_signature_12	12-gene directional score	diabetic_ED	Diabetic ED	2	2	6.994143827692449	6.994143827692449	6.400640261101554	7.587647394283345
+candidate_directional_signature_12	12-gene directional score	non_diabetic_ED	Non-diabetic organic ED	3	2	3.4775508389317498	2.4668419904088412	0.9658932509600159	6.999917275426392
+candidate_directional_signature_12	12-gene directional score	normal	Tumor-margin reference	3	3	-9.251858538542972e-17	-0.06114817349996362	-0.4470528892074093	0.5082010627073726
+candidate_inflammatory_remodeling_5	5-gene inflammatory-remodeling score	diabetic_ED	Diabetic ED	2	2	8.249729873500629	8.249729873500629	7.316721499660929	9.182738247340328
+candidate_inflammatory_remodeling_5	5-gene inflammatory-remodeling score	non_diabetic_ED	Non-diabetic organic ED	3	2	5.845812222122052	5.0494671202001165	1.7181479564773283	10.76982158968871
+candidate_inflammatory_remodeling_5	5-gene inflammatory-remodeling score	normal	Tumor-margin reference	3	3	2.7292982688701767e-16	-0.0949806945689466	-0.527781276802684	0.6227619713716315

@@ -1,0 +1,2 @@
+block,signature,samples_used,score_control,score_DMED,score_diff_DMEDminusCtrl,perm_p_one_sided_conserved,perm_p_two_sided,n_perm,core_up_in_DMED,sh3bp5_erap2,median_genes_control_all6,median_genes_DMED_all6,depth_ratio_ctrl_over_dmed
+verdict,shared_ED_core_5gene,"DMED=4(GSM8113511_H1;GSM8113512_H2;GSM8113513_H3;GSM8113514_H4),control=2(GSM8113509_N1;GSM8113510_N2)",0.513,-0.257,-0.77,0.933,0.2,15,2/5,absent_in_rat_panel_not_testable,1313.0,1537.0,0.85

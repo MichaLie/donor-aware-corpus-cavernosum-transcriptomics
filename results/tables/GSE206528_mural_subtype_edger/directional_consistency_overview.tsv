@@ -1,0 +1,5 @@
+mural_subtype	comparison	n_FDR_0_10	n_FDR_0_05	n_FDR_0_05_directionally_consistent
+Pericyte_like	diabetic_ED_vs_normal	21	12	12
+Pericyte_like	non_diabetic_ED_vs_normal	3	0	0
+Pericyte_like	organic_ED_vs_normal	2	2	2
+Vessel_SMC_like	diabetic_ED_vs_normal	2	1	1

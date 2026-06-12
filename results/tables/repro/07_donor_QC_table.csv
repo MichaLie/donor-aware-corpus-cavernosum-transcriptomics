@@ -1,0 +1,9 @@
+donor,group,diabetes,tissue,pericyte_cells,median_genes,median_UMIs,mito_pct,stress_score,peri_marker_score,SH3BP5_mean
+N1,normal,none,tumor-margin,203,1652,4717,6.02,-0.26,-0.025,0.105
+N2,normal,none,tumor-margin,106,1763,3990,2.73,-0.277,0.432,0.066
+N3,normal,none,tumor-margin,244,1417,3335,5.17,-0.301,0.395,0.063
+ED1,non_diabetic_ED,non-diabetic,prosthesis biopsy,76,1563,3599,1.39,0.467,0.492,0.042
+ED2,non_diabetic_ED,non-diabetic,prosthesis biopsy,16,2190,5477,2.84,-0.107,0.882,0.105
+ED3,non_diabetic_ED,non-diabetic,prosthesis biopsy,279,1746,4089,2.29,-0.27,0.343,0.098
+DMED1,diabetic_ED,T1D long-standing,prosthesis biopsy,177,1716,4140,1.76,0.166,0.184,0.66
+DMED2,diabetic_ED,T1D long-standing,prosthesis biopsy,255,1500,3689,4.07,0.338,0.158,0.3

@@ -1,0 +1,11 @@
+gene,expected_dir,orientedL2FC_diab_vs_untr,padj_diab_vs_untr,orientedL2FC_diab_vs_mann,padj_diab_vs_mann,orientedL2FC_mann_vs_untr,padj_mann_vs_untr,induced_by_glucose(sig),hyperglycemia_specific(sig),osmotic_effect(sig)
+IL6,up,0.884,0.0012,0.641,0.0188,0.243,0.9994,True,True,False
+ADAMTS4,up,1.05,0.0,0.939,0.0,0.11,0.9994,True,True,False
+PLA2G2A,up,-1.246,0.453,-0.699,0.6051,-0.547,0.9994,False,False,False
+CYR61,up,1.36,0.0,1.383,0.0,-0.023,0.9994,True,True,False
+PI15,up,1.104,0.9631,0.128,,0.976,0.9994,False,False,False
+SH3BP5,up,-0.415,0.0007,-0.523,0.0,0.108,0.9994,False,False,False
+ERAP2,down,0.094,0.572,0.144,0.1744,-0.049,0.9994,False,False,False
+RGS16,up,1.171,0.0003,1.151,0.0003,0.02,0.9994,True,True,False
+COMPOSITE_8gene_core,up,score_diff=0.632,exactP=0.0009,score_diff=0.617,exactP=0.0065,score_diff=0.031,exactP=0.875,True,True,False
+"COMPOSITE_4inflam(IL6,ADAMTS4,CYR61,RGS16)",up,,,score_diff=1.360,exactP=0.0022,,,True,True,False

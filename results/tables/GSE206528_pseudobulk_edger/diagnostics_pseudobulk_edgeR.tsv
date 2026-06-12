@@ -1,0 +1,8 @@
+cell_type	pseudobulks_total	pseudobulks_passing_min_cells	donors_passing	min_cells	max_cells
+Endothelial	8	8	DMED1,DMED2,ED1,ED2,ED3,N1,N2,N3	942	5198
+Fibroblast	8	8	DMED1,DMED2,ED1,ED2,ED3,N1,N2,N3	1598	7219
+Macrophage	8	7	DMED1,DMED2,ED1,ED3,N1,N2,N3	61	428
+Mural	8	8	DMED1,DMED2,ED1,ED2,ED3,N1,N2,N3	71	2271
+Schwann_neural	8	1	ED3	61	61
+Smooth_muscle	8	5	DMED1,DMED2,ED3,N1,N3	56	2284
+T_cell	8	8	DMED1,DMED2,ED1,ED2,ED3,N1,N2,N3	105	538

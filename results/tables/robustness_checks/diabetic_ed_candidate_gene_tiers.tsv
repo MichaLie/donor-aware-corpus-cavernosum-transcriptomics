@@ -1,0 +1,13 @@
+gene_symbol	tier	direction	logFC	FDR	rationale
+ADAMTS4	Inflammatory-remodeling	up_in_diabetic_ED	4.19494894732916	0.0035820474536285	Matrix-remodeling/protease axis
+NR4A3	Activation/stress context	up_in_diabetic_ED	3.95583264539962	0.0035820474536285	Immediate-early/stress-activation gene
+IL6	Inflammatory-remodeling	up_in_diabetic_ED	4.6866998230421	0.0035820474536285	Inflammatory cytokine axis
+PI15	Inflammatory-remodeling	up_in_diabetic_ED	3.6853314227566	0.0054470020158132	Pericyte-like candidate; broader organic ED signal
+PLA2G2A	Inflammatory-remodeling	up_in_diabetic_ED	3.66087810935056	0.0080046491823832	Inflammatory/lipid mediator-related signal
+SH3BP5	Exploratory/uncertain	up_in_diabetic_ED	2.78686638617908	0.0133848419732999	Candidate signal; limited mechanistic interpretation
+MT1A	Activation/stress context	up_in_diabetic_ED	2.80556449196479	0.0215447647591949	Stress-response candidate
+NR4A2	Activation/stress context	up_in_diabetic_ED	3.19462318338481	0.0215447647591949	Immediate-early/stress-activation gene
+ERAP2	Exploratory/uncertain	down_in_diabetic_ED	-3.63303730128362	0.0220113606267881	Downregulated candidate; cautious interpretation
+NR4A1	Activation/stress context	up_in_diabetic_ED	2.97628852226847	0.0220113606267881	Immediate-early/stress-activation gene
+CYR61	Inflammatory-remodeling	up_in_diabetic_ED	2.41411122597973	0.0351823510327688	Tissue remodeling or angiogenic-stress context
+RGS16	Activation/stress context	up_in_diabetic_ED	2.4128744373486	0.0488085296727281	Signaling regulator; activation/stress context

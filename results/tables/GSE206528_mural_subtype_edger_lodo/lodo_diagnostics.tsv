@@ -1,0 +1,23 @@
+mural_subtype	comparison	leave_out_donor	runnable	group_summary	n_genes_tested	n_samples
+Pericyte_like	organic_ED_vs_normal	DMED1	TRUE	normal=3;organic_ED=3	8152	6
+Pericyte_like	organic_ED_vs_normal	DMED2	TRUE	normal=3;organic_ED=3	7820	6
+Pericyte_like	organic_ED_vs_normal	ED1	TRUE	normal=3;organic_ED=3	8149	6
+Pericyte_like	organic_ED_vs_normal	ED3	TRUE	normal=3;organic_ED=3	7798	6
+Pericyte_like	organic_ED_vs_normal	N1	TRUE	normal=2;organic_ED=4	8673	6
+Pericyte_like	organic_ED_vs_normal	N2	TRUE	normal=2;organic_ED=4	8728	6
+Pericyte_like	organic_ED_vs_normal	N3	TRUE	normal=2;organic_ED=4	8796	6
+Pericyte_like	non_diabetic_ED_vs_normal	ED1	FALSE	normal=3;non_diabetic_ED=1		
+Pericyte_like	non_diabetic_ED_vs_normal	ED3	FALSE	normal=3;non_diabetic_ED=1		
+Pericyte_like	non_diabetic_ED_vs_normal	N1	TRUE	normal=2;non_diabetic_ED=2	7406	4
+Pericyte_like	non_diabetic_ED_vs_normal	N2	TRUE	normal=2;non_diabetic_ED=2	8209	4
+Pericyte_like	non_diabetic_ED_vs_normal	N3	TRUE	normal=2;non_diabetic_ED=2	7609	4
+Pericyte_like	diabetic_ED_vs_normal	DMED1	FALSE	normal=3;diabetic_ED=1		
+Pericyte_like	diabetic_ED_vs_normal	DMED2	FALSE	normal=3;diabetic_ED=1		
+Pericyte_like	diabetic_ED_vs_normal	N1	TRUE	normal=2;diabetic_ED=2	8132	4
+Pericyte_like	diabetic_ED_vs_normal	N2	TRUE	normal=2;diabetic_ED=2	8118	4
+Pericyte_like	diabetic_ED_vs_normal	N3	TRUE	normal=2;diabetic_ED=2	8181	4
+Vessel_SMC_like	diabetic_ED_vs_normal	DMED1	FALSE	normal=3;diabetic_ED=1		
+Vessel_SMC_like	diabetic_ED_vs_normal	DMED2	FALSE	normal=3;diabetic_ED=1		
+Vessel_SMC_like	diabetic_ED_vs_normal	N1	TRUE	normal=2;diabetic_ED=2	11743	4
+Vessel_SMC_like	diabetic_ED_vs_normal	N2	TRUE	normal=2;diabetic_ED=2	11558	4
+Vessel_SMC_like	diabetic_ED_vs_normal	N3	TRUE	normal=2;diabetic_ED=2	11494	4
